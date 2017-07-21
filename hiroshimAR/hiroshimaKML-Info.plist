@@ -30,6 +30,11 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
+			<key>https://lh5.googleusercontent.com/Zu4OnEj976u6eHD_G8jsS9QCpgDCGC4ZE5hrp281Or9vzYBL1sn0iiXeZhnUWLeqKkKHQZhJMaKwRMQ=w2880-h1564</key>
+			<dict>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
 			<key>1964.mapping.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
@@ -50,15 +55,15 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Showing AR contents on the camera screen.</string>
 	<key>NSLocationUsageDescription</key>
-	<string>Showing user's location on the map.</string>
+	<string>Showing user&apos;s location on the map.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Showing user's location on the map.</string>
+	<string>Showing user&apos;s location on the map.</string>
 	<key>NSMainNibFile</key>
 	<string>MainWindow</string>
 	<key>NSMainNibFile~ipad</key>
 	<string>MainWindow-iPad</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>This application doesn't access the Photo Library.'</string>
+	<string>This application doesn&apos;t access the Photo Library.&apos;</string>
 	<key>UIApplicationExitsOnSuspend</key>
 	<false/>
 	<key>UIRequiredDeviceCapabilities</key>

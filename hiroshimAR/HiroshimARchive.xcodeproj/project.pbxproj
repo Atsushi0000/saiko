@@ -24,6 +24,7 @@
 		033ED8151A91B12C00E6EBB9 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 033ED8041A91B12C00E6EBB9 /* UIImageView+WebCache.m */; };
 		033ED8161A91B12C00E6EBB9 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 033ED8061A91B12C00E6EBB9 /* UIView+WebCacheOperation.m */; };
 		033ED8181A91B14600E6EBB9 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 033ED8171A91B14600E6EBB9 /* ImageIO.framework */; };
+		0D180C001F21E0C700105B8E /* oldest_Takuyo.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0D180BFF1F21E0C700105B8E /* oldest_Takuyo.kml */; };
 		1A4B76FB11907DD600940A50 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A4B76FA11907DD600940A50 /* MapKit.framework */; };
 		1A4B770A11907E0300940A50 /* KMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A4B770911907E0300940A50 /* KMLParser.m */; };
 		1A4B77311190911400940A50 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A4B77301190911400940A50 /* CoreLocation.framework */; };
@@ -117,6 +118,7 @@
 		033ED8051A91B12C00E6EBB9 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
 		033ED8061A91B12C00E6EBB9 /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
 		033ED8171A91B14600E6EBB9 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		0D180BFF1F21E0C700105B8E /* oldest_Takuyo.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oldest_Takuyo.kml; path = kml/oldest_Takuyo.kml; sourceTree = "<group>"; };
 		1A4B76FA11907DD600940A50 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		1A4B770811907E0300940A50 /* KMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KMLParser.h; sourceTree = "<group>"; };
 		1A4B770911907E0300940A50 /* KMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KMLParser.m; sourceTree = "<group>"; };
@@ -422,6 +424,7 @@
 				5EDF0AAB1DC7773700C405D8 /* photographs_en.kml */,
 				5EDF0AAC1DC7773700C405D8 /* photographs.kml */,
 				5EDF0AAD1DC7773700C405D8 /* video_shogen.kml */,
+				0D180BFF1F21E0C700105B8E /* oldest_Takuyo.kml */,
 			);
 			name = Kml;
 			sourceTree = "<group>";
@@ -522,6 +525,7 @@
 				CE9D55C7141586310096593A /* information.html in Resources */,
 				5EDF0AB81DC7773700C405D8 /* video_shogen_en.kml in Resources */,
 				5EDF0AB71DC7773700C405D8 /* kioku_wo_uketsugu.kml in Resources */,
+				0D180C001F21E0C700105B8E /* oldest_Takuyo.kml in Resources */,
 				9E410C331A49471300E5F9EF /* Images.xcassets in Resources */,
 				9EE45FEF1A75621000655A95 /* KMLViewerViewController-iPad.xib in Resources */,
 				5EDB30BA1DC8BC33002BBB4C /* fujimoto_en.kml in Resources */,

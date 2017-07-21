@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>oldest_Takuyo.kml</name>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh5.googleusercontent.com/Zu4OnEj976u6eHD_G8jsS9QCpgDCGC4ZE5hrp281Or9vzYBL1sn0iiXeZhnUWLeqKkKHQZhJMaKwRMQ=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh5.googleusercontent.com/Zu4OnEj976u6eHD_G8jsS9QCpgDCGC4ZE5hrp281Or9vzYBL1sn0iiXeZhnUWLeqKkKHQZhJMaKwRMQ=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh5.googleusercontent.com/Zu4OnEj976u6eHD_G8jsS9QCpgDCGC4ZE5hrp281Or9vzYBL1sn0iiXeZhnUWLeqKkKHQZhJMaKwRMQ=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>oldest</name>
+		<open>1</open>
+		<Placemark>
+			<name>宮益坂ビルディング</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">公営分譲マンション</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1953年に東京都が分譲した、日本初といわれる分譲マンション。
+</p>
+<p class="body">
+　地上11階建て地下1階建てで、1階が店舗、2～4階が事務所、5階以上が住宅として分譲された。売主の東京都が2億円の工費を投じて建てたとされる、当時としては最先端の共同住宅は、すべての住戸が34.01m2の広さで、価格は102万2000円。今なら億ションとされる価格らしい。新聞記事では「天国の百万円アパート」「特別船室さながらの豪華版！」などとして話題になった。全70戸のうち47戸は会社重役が申し込んだとか。
+</p>
+<p class= "body">参考：<a href="http://suumo.jp/journal/2016/05/25/111556/">http://suumo.jp/journal/2016/05/25/111556/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7037819</longitude>
+				<latitude>35.65958629999999</latitude>
+				<altitude>0</altitude>
+				<heading>-3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7037819,35.65958629999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>おにぎり 浅草 宿六</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">おにぎり屋さん</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　昭和29年創業、今年で創業63年になる東京都内で一番古いおにぎりだけを扱うおにぎり専門店。
+</p>
+<p class="body">
+　お店の雰囲気や中の内装が高級寿司屋のような佇まいで、カウンターの前には10種類以上のネタが並べられていて、木札にもネタが書かれているこだわりよう。実際におにぎりは直接具を見て選ぶことができる。厳選された素材だけを使用して、米は単一原料のコシヒカリ、海苔は江戸前、塩は天然塩（時期によってを変わる）と言った一つ一つの素材にこだわりを持ったおにぎりを提供している。
+</p>
+<p class= "body">参考：<a href="https://retrip.jp/articles/78018/">https://retrip.jp/articles/78018/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.794751</longitude>
+				<latitude>35.716885</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000364</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.794751,35.716885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ロージナ茶房</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">地下商店街</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1955年に開設。
+</p>
+<p class="body">
+　東京・銀座三原橋地下街の最後のお店「三原カレーコーナー」が2014年4月27に閉店したことにより、最古の地下商店街は東京・浅草地下商店街となった。商店街の規模としてはとても小さいもので、端から端まで見渡せてしまうほどだ。開設から60年を経ており、現在営業しているお店の数もそう多くはない。昭和のノスタルジーを感じさせる佇まいは切ない。まるで時代に取り残されたような気分になる。それと同時に、懐かしさに癒される思いもするのである。
+
+</p>
+<p class= "body">参考：<a href="http://rocketnews24.com/2014/06/01/447109/">http://rocketnews24.com/2014/06/01/447109/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.4461504</longitude>
+				<latitude>35.6978885</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001911</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4461504,35.6978885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浅草地下商店街</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">地下商店街</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1955年に開設。
+</p>
+<p class="body">
+　東京・銀座三原橋地下街の最後のお店「三原カレーコーナー」が2014年4月27に閉店したことにより、最古の地下商店街は東京・浅草地下商店街となった。商店街の規模としてはとても小さいもので、端から端まで見渡せてしまうほどだ。開設から60年を経ており、現在営業しているお店の数もそう多くはない。昭和のノスタルジーを感じさせる佇まいは切ない。まるで時代に取り残されたような気分になる。それと同時に、懐かしさに癒される思いもするのである。
+
+</p>
+<p class= "body">参考：<a href="http://rocketnews24.com/2014/06/01/447109/">http://rocketnews24.com/2014/06/01/447109/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7979387</longitude>
+				<latitude>35.71123259999999</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000051</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7979387,35.7112326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>四谷コーポラス</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">民間分譲マンション</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　日本信販の不動産部門である日本開発（株）が昭和31年（1956年）に分譲した日本最初の民間分譲マンション。
+</p>
+<p class="body">
+　総戸数28戸、5階建ての小規模物件ながら、当時の分譲価格は3ＬＤＫで約230万円だったそう。
+　その頃の国家公務員の初任給が8700円だから、現在の価格に直すとおよそ4500万円。
+
+</p>
+<p class= "body">参考：<a href="https://blogs.yahoo.co.jp/aromanonnon/24185663.html">https://blogs.yahoo.co.jp/aromanonnon/24185663.html</a></p>]]></description>
+			<LookAt>
+				<longitude>139.729558</longitude>
+				<latitude>35.68908340000002</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000255</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.729558,35.68908340000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>コープ・オリンピア</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">億ション(高級マンション)</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1965年（昭和40年）に完成した第一号の億ション。
+</p>
+<p class="body">
+　建設されている建物は地上11階、地下2階建てで、延べ床面積は23,239平米である。住戸数は164戸で、各戸の占有面積は28 -215平米（平均79平米）である。
+
+</p>
+<p class= "body">参考：<a href="https://middle-edge.jp/articles/8S15Q">https://middle-edge.jp/articles/8S15Q</a></p>]]></description>
+			<LookAt>
+				<longitude>139.703425</longitude>
+				<latitude>35.66910400000001</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463516e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001386</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.703425,35.66910400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>常磐台3丁目の縦型灯器</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">信号機</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1967年（昭和）42年に作られた都内最古の信号機。
+</p>
+<p class= "body">参考：<a href="http://trafficsignalsexploration.web.fc2.com/k59.html">http://trafficsignalsexploration.web.fc2.com/k59.html</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6835191518066</longitude>
+				<latitude>35.76368317578447</latitude>
+				<altitude>0</altitude>
+				<heading>154.7417620934781</heading>
+				<tilt>65.4582321965087</tilt>
+				<range>135.2697618952116</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6841799106465,35.76364403618818,3.948143771091166</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>松屋江古田店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">松屋</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　昭和43年(1968)、江古田に1号店をオープン。
+</p>
+<p class="body">
+　松屋は土地柄を考慮して、学生や独身サラリーマン層向けに定食とカレーが必要と考え、「牛めし」「定食」「カレー」の三本柱でメニューを構成することになり、キッチンに鉄板を入れて客の前で調理することにこだわった。できたての焼き肉やハンバーグの定食をメニューに入れて人気を博し、全国展開の足がかりを作った。そうしたメニュー構成はいまでも健在。江古田の1号店は現在の松屋の統一された店舗設計に変わってはいるが、同じ場所で営業を続けている。
+
+</p>
+<p class= "body">参考：<a href="http://news.mynavi.jp/articles/2013/12/23/gyudon/">http://news.mynavi.jp/articles/2013/12/23/gyudon/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6716188</longitude>
+				<latitude>35.7385666</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927034e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000934</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6716188,35.73856660000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新宿ヘッドパワー</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ライブハウス</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1968年に開店。
+</p>
+<p class= "body">参考：<a href="http://headpower.tokyo/">http://headpower.tokyo/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7081178</longitude>
+				<latitude>35.70299189999999</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000727</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7081178,35.70299189999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>霞が関ビルディング</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">超高層ビル（100m以上）</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　東京倶楽部が経営していた旧・東京倶楽部ビル跡と霞会館（旧・華族会館）の敷地に建設され、1965年（昭和40年）3月18日に起工、1967年（昭和42年）4月18日に上棟し、1968年（昭和43年）4月12日にオープンした。
+</p>
+<p class="body">
+　当時の建築基準法により、31mという高さ制限（いわゆる百尺規制）があったため、当初は9階建てのビルの計画であったが、都市計画法改正（1961年）により導入された特定街区制度を利用して、超高層ビルへ計画変更された経緯がある。日本においてはじめての高層ビルの建設のため苦労も多かった。竣工当時、13階は縁起の悪い数字のため、テナントではなくビル内の空調機器をまとめて配置する機械室として用いられた。非常階段は中央共用部に設置され、火災時の煙が溜まらない構造となっていたが、停電時に自分の位置が分からなくなる可能性があり、また煙の滞留性にも不安が残ったため、後年の京王プラザホテルや新宿三井ビルディングでは非常階段の一部を外部に剥き出しにする構造が採られている[5]。最上階の36階に展望台があり賑わいをみせていたが、その後オフィスに改装された。現在は、35階に東海大学校友会館が入居して、レストラン、宴会場、会議場を運営しており（卒業生などに限らず、一般も利用可能）、このフロアが一般客が利用できる最上階となっている[6]。
+ビルの総容積は約50万立方メートル（総重量約10万トン）あり、東京ドームが竣工する前は莫大な体積を表現する際に「霞が関ビル何杯分」という表現がよく使われていた。
+
+</p>
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E9%9C%9E%E3%81%8C%E9%96%A2%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0">https://ja.wikipedia.org/wiki/%E9%9C%9E%E3%81%8C%E9%96%A2%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7472403949886</longitude>
+				<latitude>35.67118316671835</latitude>
+				<altitude>0</altitude>
+				<heading>7.00739807420042e-11</heading>
+				<tilt>0</tilt>
+				<range>1001.648451949875</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7472403949886,35.67118316671835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>モスバーガー成増店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">モスバーガー</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1972年に開店したモスバーガー成増店（東京）。
+</p>
+<p class="body">
+　由来は山のように気高く堂々と、海のように深く広い心で、太陽のように燃え尽きることのない情熱を持ってと　マウンテンのM、オーシャンのO、サンのSの頭文字をとって創業者が願ってつけた名前です。テリヤキバーガーもMOSが発祥です。
+
+</p>
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6320449016398</longitude>
+				<latitude>35.77755319848683</latitude>
+				<altitude>0</altitude>
+				<heading>1.863805043337621e-12</heading>
+				<tilt>0</tilt>
+				<range>1000.183316238762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6320449016398,35.77755319848683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>バンコク</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">タイ料理店</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　開店したのが1973年と、創業42年を誇り、日本では2番目に古いタイ料理店で、現存するお店としては最古という老舗。
+</p>
+<p class="body">
+　本格的で何を食べても美味しい。一皿が多いので大人数にもおすすめ。
+
+</p>
+<p class= "body">参考：<a href="http://www.ttcbn.net/no_second_life/archives/50786">http://www.ttcbn.net/no_second_life/archives/50786</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7347089</longitude>
+				<latitude>35.66332810000001</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927034e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000807</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7347089,35.66332810000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>セブンイレブン豊洲店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">セブンイレブン</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1974年5月15日、東京都江東区に「豊洲店」オープン。
+</p>
+
+<p class= "body">参考：<a href="http://www.jj4649.com/chisiki4.html">http://www.jj4649.com/chisiki4.html</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7981963</longitude>
+				<latitude>35.65539859999998</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000704</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7981963,35.65539859999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>テンプル大学ジャパンキャンパス</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">外国大学の日本校</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　テンプル大学ジャパンキャンパス (TUJ) は、1982年に設立されたテンプル大学の日本校。
+</p>
+<p class="body">
+　外国大学の日本校（米国大学日本校）としては最も古く、学生数で最大規模。2005年、文部科学省から外国大学日本校として初めての指定を受けた。外国人学生を対象とした日本語クラスを除いては、授業は全て英語で行われる。インターナショナルスクール出身者や米国、中東、ヨーロッパ、台湾など海外から来る学生や各国大使館の子息も多い。学部課程の国籍割合は、日本とアメリカが4割ずつ、残りの2割は50カ国以上から来ている。テンプル大学米国本校はもちろん、北米のほとんどの大学への（からの）編入が可能なほか、日本の大学への（からの）編入や日本の大学院への進学も可能。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB%E5%A4%A7%E5%AD%A6#.E3.82.AD.E3.83.A3.E3.83.B3.E3.83.91.E3.82.B9">https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB%E5%A4%A7%E5%AD%A6#.E3.82.AD.E3.83.A3.E3.83.B3.E3.83.91.E3.82.B9</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7361016</longitude>
+				<latitude>35.6484749</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000694</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7361016,35.6484749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>無印良品青山店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">無印良品</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1983年に開店した無印良品青山店（東京）。
+</p>
+<p class="body">
+　西武のプライベート・ブランドして始まり文具や衣類、雑貨だけでなく食事やキャンプ場さらに家という人生に関わるものを多く手がけてる良品計画。一号店はオシャレの中心である青山にある。２０１１年秋にＦｏｕｎｄ　ＭＵＪＩ青山として生まれ変わった。
+</p>
+
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7099330000005</longitude>
+				<latitude>35.662972</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000293</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7099330000005,35.662972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ドミノ・ピザ恵比寿店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ドミノ・ピザ</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1985年に開店したドミノ・ピザ恵比寿店。
+</p>
+
+<p class= "body">参考：<a href="http://style.nikkei.com/article/DGXNASFK1303L_U1A710C1000000?channel=DF130120166138&style=1">http://style.nikkei.com/article/DGXNASFK1303L_U1A710C1000000?channel=DF130120166138&style=1</a></p>]]></description>
+			<LookAt>
+				<longitude>139.712005</longitude>
+				<latitude>35.64492899999999</latitude>
+				<altitude>0</altitude>
+				<heading>1.272221872585407e-14</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.712005,35.644929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>フォーチュンカフェトリン</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">占いカフェ</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1986年に創業した都内最古の占いカフェ "フォーチュンカフェトリン"。
+</p>
+
+<p class= "body">参考：<a href="http://www.trine.jp/">http://www.trine.jp/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.697879</longitude>
+				<latitude>35.66169400000001</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000394</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.697879,35.661694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京ドーム</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">全天候型野球場</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1988年3月18日に後楽園球場の実質的な代替球場として後楽園競輪場の跡地に開場。
+</p>
+<p class="body">
+　空気膜構造屋根を持つアメリカのメトロドームをモデルとして設計された。 後楽園球場から引き続き、巨人とパシフィック・リーグの日本ハムファイターズ（当時）が専用球場とした。そのため開場から2003年まではプロ野球の2つの球団が本拠地としていた。これは東京ドームが唯一であったが日本ハムは2004年度に北海道の札幌ドームに移転し「北海道日本ハムファイターズ」となったため、1つの球場を2つの球団が本拠地とするケースは消滅したが、現在も8試合の主催試合を開催している（試合数は2007年から固定）。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0">https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7518913</longitude>
+				<latitude>35.7056396</latitude>
+				<altitude>0</altitude>
+				<heading>-9.54166404439055e-15</heading>
+				<tilt>0</tilt>
+				<range>999.9999999994757</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7518913,35.7056396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>てんや八重洲店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">てんや</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1989年9月東京駅八重洲地下街に "てんや" 1号店｢八重洲店｣を開店。
+</p>
+
+<p class= "body">参考：<a href="http://www.tenya.co.jp/company/history/">http://www.tenya.co.jp/company/history/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7679725179712</longitude>
+				<latitude>35.67908806573234</latitude>
+				<altitude>0</altitude>
+				<heading>8.046485288634549e-11</heading>
+				<tilt>0</tilt>
+				<range>1001.906153690905</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7679725179712,35.67908806573234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ドン・キホーテ府中店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ドン・キホーテ</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1989年3月、東京都府中市に第一号店のドン・キホーテ府中店がオープンした。
+</p>
+
+<p class= "body">参考：<a href="http://www.donki.com/faq/detail.php?faqid=2244">http://www.donki.com/faq/detail.php?faqid=2244</a></p>]]></description>
+			<LookAt>
+				<longitude>139.4902879468818</longitude>
+				<latitude>35.67073980441579</latitude>
+				<altitude>0</altitude>
+				<heading>-1.317703804530335e-11</heading>
+				<tilt>0</tilt>
+				<range>1006.844972409428</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4902879468818,35.67073980441579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>フレッシュネスバーガー富ヶ谷店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">フレッシュネスバーガー</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1992年に渋谷区富ヶ谷にできた「フレッシュネスバーガー」日本の１号店。
+</p>
+
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6827719</longitude>
+				<latitude>35.6631654</latitude>
+				<altitude>0</altitude>
+				<heading>9.54166404439055e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000702</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6827719,35.6631654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>一風堂恵比寿店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">一風堂</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1995年に東京都渋谷区広尾に東京1号店となる恵比寿店をオープン。
+</p>
+
+<p class= "body">参考：<a href="http://www.ippudo.com/historical-fact/course.html">http://www.ippudo.com/historical-fact/course.html</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7131972999999</longitude>
+				<latitude>35.64866359999995</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000666</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7131973,35.64866359999994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>スターバックスコーヒー銀座松屋通り店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">スターバックス</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1996年にスターバックスコーヒー銀座松屋通り店（東京）が開店。
+</p>
+
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7666248083088</longitude>
+				<latitude>35.67170825857256</latitude>
+				<altitude>0</altitude>
+				<heading>-1.959539739249673e-10</heading>
+				<tilt>0</tilt>
+				<range>1003.649794335246</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7666248083088,35.67170825857256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京チカラめし池袋西口店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">東京チカラめし</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　2011年6月に池袋西口に東京チカラめしが誕生した。
+</p>
+
+<p class= "body">参考：<a href="http://news.mynavi.jp/articles/2013/12/23/gyudon/">http://news.mynavi.jp/articles/2013/12/23/gyudon/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7101003</longitude>
+				<latitude>35.73206089999999</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000393</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7101003,35.73206089999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浅草寺</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">寺院</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　大化元年（645年）に観音堂が建てられ、それ以来1,400年の歴史を誇ると言う。
+</p>
+<p class="body">
+　浅草の「浅草寺（せんそうじ）」は聖観世音菩薩を本尊とする観音霊場。由緒によると、飛鳥時代に隅田川の漁師兄弟の網に掛かった聖観世音菩薩像を安置したとされる。この本尊の聖観世音菩薩は慈悲深い仏であり、人々の苦しみを除き、世を救うとされる。また、観音菩薩を龍神が守護するとして龍神が祀られ、山号を「金龍山」と称している。そんな浅草寺の境内には、50箇所ともいわれるご利益スポットが散在している。
+
+
+</p>
+
+<p class= "body">参考：<a href="http://reki4.com/00333.html">http://reki4.com/00333.html</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7966553</longitude>
+				<latitude>35.71476509999999</latitude>
+				<altitude>0</altitude>
+				<heading>6.361109362927034e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000501</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7966553,35.71476509999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>下谷神社</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">稲荷神社</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　730年に建てられた都内最古の稲荷神社である。
+</p>
+
+<p class= "body">参考：<a href="https://ameblo.jp/wildviolet-35/entry-12260526920.html">https://ameblo.jp/wildviolet-35/entry-12260526920.html</a></p>]]></description>
+			<LookAt>
+				<longitude>139.781286</longitude>
+				<latitude>35.7107093</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000639</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.781286,35.7107093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>鳩森八幡神社</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">富士塚</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　江戸時代に造られた都内最古の富士塚。
+</p>
+<p class="body">
+　富士塚とは、江戸時代に富士信仰が流行し、富士山に似せて造られた人工の山のことです。鳩森八幡神社の富士塚は江戸時代当時の場所、姿をとどめて現在まで残っている、都内最古の大変貴重な富士塚です。東京都の有形民俗文化財にも指定されています。
+</p>
+
+<p class= "body">参考：<a href="http://guide.travel.co.jp/article/16199/">http://guide.travel.co.jp/article/16199/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7093689</longitude>
+				<latitude>35.6776978</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>999.9999999988189</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7093689,35.67769779999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新仲見世商店街</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">アーケード商店街</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　昭和5年に浅草松屋が開店、それに伴い六区振興街までの道が出来、商店街の形態を整えるまでになった。
+</p>
+<p class="body">
+　平成21年よりアーケードの大規模修繕工事が開始し、平成23年3月に新アーケードが無事完成した。奇しくも工事期間中に東日本大震災を経験しましたが、既に新アーケードは完成していたので、事なきを得ることができた。
+</p>
+
+<p class= "body">参考：<a href="http://www.asakusa-shinnaka.com/history_frame.html#.WW6mfRPyiu5">http://www.asakusa-shinnaka.com/history_frame.html#.WW6mfRPyiu5</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7934516999999</longitude>
+				<latitude>35.71240850000001</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>999.9999999989803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7934516999999,35.71240850000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>帝国劇場</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">西洋式劇場</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1911年（明治44年）3月1日に竣工式が行われた日本初の西洋式演劇劇場。
+</p>
+<p class="body">
+　帝国劇場は、益田太郎、西野恵之助、渋沢栄一、荘田平五郎、福澤捨次郎、福澤桃介、日比翁助、田中常徳、手塚猛昌が発起人となり、大倉喜八郎が采配を振って設立された日本初の西洋式演劇劇場で、1911年（明治44年）3月1日に竣工式が行われた。横河民輔の設計によるルネサンス建築様式の劇場だった。1912年（大正元年） - 1916年（大正5年)にイタリア人音楽家ローシーを招いてオペラ・バレエを上演したほか、六代目尾上梅幸・七代目松本幸四郎・七代目澤村宗十郎らが専属俳優となり歌舞伎やシェイクスピア劇などを上演。当時の「今日は帝劇、明日は三越」という宣伝文句は流行語にもなり、消費時代の幕開けを象徴する言葉として定着した。
+1923年（大正12年）の大正関東地震（関東大震災）では隣接する警視庁から出た火災により外郭を残して焼け落ちたが、横河民輔により改修され、翌1924年（大正13年）に再開した。1930年（昭和5年）に松竹の経営となり、間もなく洋画封切館に転用。SYチェーン（松竹洋画系）の基幹劇場となった。1939年（昭和14年）、運営会社を東宝が合併し、翌1940年（昭和15年）松竹の賃借期限が切れると共に東宝の手により元の演劇主体の興行形態に戻す。しかし1955年（昭和30年）、舞台に巨大映画スクリーン・シネラマが設置され、再びシネラマ主体の洋画ロードショー用の映画館に転じたが、1964年（昭和39年）から翌年にかけての『アラビアのロレンス』を最後に解体された。
+現在の複合ビルディング形式の建物は谷口吉郎の設計で1966年（昭和41年）9月29日に落成した。帝劇ビルの一部は落成当時から、石油業界大手の出光興産が本社として使用しており、最上階の9階は同社創業者出光佐三による古美術コレクションを展示する出光美術館（東京館）となっている。1969年（昭和44年）から1984年（昭和59年）まで、『日本レコード大賞』発表会も行われた。現在、年間10作品程度上演している。また大晦日に行なわれる年末ジャンボ宝くじの抽せん会場としても知られた（1997年 - 1999年、2001年 - 2005年。2000年は新宿コマ劇場で、2006年 - 2009年は東京厚生年金会館で、2010年はメルパルク東京で行われていた。2011年以降は赤坂ACTシアターで行われている）。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%88%9D%E3%81%AE%E4%B8%80%E8%A6%A7#.E6.BC.94.E8.8A.B8">https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%88%9D%E3%81%AE%E4%B8%80%E8%A6%A7#.E6.BC.94.E8.8A.B8</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7606936</longitude>
+				<latitude>35.6765206</latitude>
+				<altitude>0</altitude>
+				<heading>1.272221872585407e-14</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001994</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7606936,35.6765206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>紀ノ国屋インターナショナル</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">スーパーマーケット</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1953年（昭和28年）東京・青山に、対面販売ではなくセルフサービス方式による日本で初めての食料品スーパーマーケットを開業した。
+</p>
+<p class="body">
+　紀ノ国屋は、東京都を拠点とする高級スーパーマーケットチェーンである。東日本旅客鉄道（JR東日本）の完全子会社である株式会社紀ノ國屋によって運営されている。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B">https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7107472</longitude>
+				<latitude>35.66375230000001</latitude>
+				<altitude>0</altitude>
+				<heading>-9.54166404439055e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000402</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7107627320134,35.66364714133419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>豊島園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">スーパーマーケット</p>
+<CENTER>
+<p class="image"><img src="/Users/chenzeyang/Library/Application Support/Google Earth/ " width = " " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1953年（昭和28年）東京・青山に、対面販売ではなくセルフサービス方式による日本で初めての食料品スーパーマーケットを開業した。
+</p>
+<p class="body">
+　紀ノ国屋は、東京都を拠点とする高級スーパーマーケットチェーンである。東日本旅客鉄道（JR東日本）の完全子会社である株式会社紀ノ國屋によって運営されている。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B">https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6454129808414</longitude>
+				<latitude>35.74362862377433</latitude>
+				<altitude>0</altitude>
+				<heading>7.265860998137278e-05</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6453248777368,35.74358235401789,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

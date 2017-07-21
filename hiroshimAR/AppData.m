@@ -240,6 +240,10 @@ NSComparisonResult DistanceSortClosestFirst(Article *a1, Article *a2, void *igno
                           kmlName:@"keisho"
                          pinColor:MKPinAnnotationColorGreen
                      imageEnabled:YES];
+        [self loadFromInformation:mode
+                          kmlName:@"oldest_Takuyo"
+                         pinColor:MKPinAnnotationColorGreen
+                     imageEnabled:YES];
     } else {
     
     // 日本語以外の場合は英語KMLをロード
