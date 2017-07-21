@@ -30,22 +30,37 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
+			<key>https://lh3.googleusercontent.com/Novcq-jTJHDEznRPTqRBKo_Ym7tQTu_0sopMvuD2o3JcFF_kzgHp_tIW0_hCbkodv-qxNSYL11Hhl64=w2880-h1564</key>
+			<dict>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+			<key>https://lh3.googleusercontent.com/c07R4USYRqb9-0HQYuXUbEeIg9ESQmbbuTV5WMQHoBgt16Ya7FvfUshnoIgx_u2pF9IGLFfvw_DM4PY=w2880-h1564</key>
+			<dict>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+			<key>https://lh6.googleusercontent.com/xAMVpx1xCxzwPr_LbhdynOg7O5KIzCDFI0OORVpU9QKVBEgs39p-YUy1jeZjkVfLojcI_kDQQ3qoqlo=w2880-h1564</key>
+			<dict>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
 			<key>https://lh5.googleusercontent.com/Zu4OnEj976u6eHD_G8jsS9QCpgDCGC4ZE5hrp281Or9vzYBL1sn0iiXeZhnUWLeqKkKHQZhJMaKwRMQ=w2880-h1564</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>1964.mapping.jp</key>
+			<key>https://lh5.googleusercontent.com/t-_JjrA7ystPlNZYv1QYuqXbsWRYkk79hNB8Rupjok7Q8P7xNM2uB-Bvk7Lx85OwFebH6PHyiSmniMc=w2880-h1564</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>cyberjapandata.gsi.go.jp</key>
+			<key>https://lh3.googleusercontent.com/gEBcceQfZtmaDo7kQh__PFSL6_KOSt3CU4tgbRk4qtdjp3I17xRej5frRdmV-3URrqqtm4ODppdZsNQ=w2880-h1564</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>hiroshima.archiving.jp</key>
+			<key>https://lh4.googleusercontent.com/SV350qbXMdyZiYLI5Hm_vfC-NB_Q6t0yTprX9lAnH8L_fbZDuJ6sU69Izy9IR1Yn50LIx8qB2iMVdBk=w2880-h1564</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
