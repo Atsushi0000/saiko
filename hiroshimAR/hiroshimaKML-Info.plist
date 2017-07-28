@@ -30,12 +30,7 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>http://www.wasedaweekly.jp/upload/965/写真②　学苑の様子（昭和28年頃）.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://blogimg.goo.ne.jp/user_image/15/97/2fb65797a4b0f83a6c601e13b373699c.jpg</key>
+			<key>www.wasedaweekly.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -45,17 +40,7 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://livedoor.4.blogimg.jp/vipsister23/imgs/d/7/d7728717.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://blogimg.goo.ne.jp/user_image/04/26/9841d92c6bdeea20240a02d4807a7f75.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://www.dagashi.org/tokyo/tokyopic/awaji09.jpg</key>
+			<key>www.dagashi.org</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -65,17 +50,17 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blog-imgs-44-origin.fc2.com/o/p/e/openarchitectureblog/20120901224657099.jpg</key>
+			<key>blog-imgs-44-origin.fc2.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://hibiyaline.p1.bindsite.jp/kenchiku/_src/sc560/R0018732.jpg</key>
+			<key>hibiyaline.p1.bindsite.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blog.canpan.info/fukiura/img/5718/p4100172.jpg</key>
+			<key>blog.canpan.info</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -85,32 +70,22 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.toda.co.jp/works/edu/images/edu_22.jpg</key>
+			<key>www.toda.co.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.hokkekai.jp/20shukuji/watanabe/risshou-gakuen2.jpg</key>
+			<key>www.hokkekai.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blog-imgs-45.fc2.com/1/0/6/106season2/DSC03116.jpg </key>
+			<key>blog-imgs-45.fc2.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://livedoor.4.blogimg.jp/vipsister23/imgs/4/1/412d83a1.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://blog-imgs-43.fc2.com/k/i/n/kindaikenchikurest/DSCN9899.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://img.4travel.jp/img/tcs/t/tips/pict/src/145/793/src_14579323.jpg</key>
+			<key>livedoor.4.blogimg.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -120,22 +95,12 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://jice.homemate-navi.com/pubuser1/pubuser_facility_img/4/8/7/00000000000000162784/0000006269/00000000000000162784_0000006269_5.jpg?f=0</key>
+			<key>jice.homemate-navi.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://img.4travel.jp/img/tcs/t/pict/src/24/57/74/src_24577407.jpg?1329730057</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://blogimg.goo.ne.jp/user_image/4c/27/2f5d64797c08003d58ddf3248552a9dd.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://tachibana-kai.com/web/wp-content/uploads/2016/02/historyPhoto_4.jpg</key>
+			<key>tachibana-kai.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -145,432 +110,237 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/103-d31b2.jpg?c=a0</key>
+			<key>blog-imgs-29.fc2.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blog-imgs-29.fc2.com/t/o/k/tokyolionmaru/R0017742_convert_20100502083917.jpg</key>
+			<key>4.bp.blogspot.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://4.bp.blogspot.com/-KMimSoLjsfY/VoFG2L5OtoI/AAAAAAAAHSU/dTIvACEBWkI/s1600/1124485780_0087.jpg</key>
+			<key>blog-imgs-91.fc2.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blog-imgs-91.fc2.com/h/k/m/hkma77y/IMG_6505.jpg </key>
+			<key>waradutoya.c.blog.so-net.ne.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/E6B7B1E5B79D02-1148e.jpg?c=a0</key>
+			<key>konjaku-photo.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://konjaku-photo.com/m/pic/600/1457.png</key>
+			<key>img.enfactory.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://img.enfactory.jp/profile/pf/img/library/l/1324442347.jpg</key>
+			<key>www.jprime.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.jprime.jp/mwimgs/8/d/-/img_8d35b4f5892ff53a8019b34f42f496f477142.jpg</key>
+			<key>archive.foodrink.co.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://archive.foodrink.co.jp/snapshot/ss0811/bar6.gif - 2</key>
+			<key>blog-imgs-43.fc2.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blog-imgs-43.fc2.com/k/u/i/kuidoo/mukasiyosinoya.jpg</key>
+			<key>blog-imgs-55.fc2.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blog-imgs-55.fc2.com/n/i/g/nighttrain999/20120503123307198.jpg</key>
+			<key>blogimg.goo.ne.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://blogimg.goo.ne.jp/user_image/74/3a/25c18a35f551f69d46bce6509536bb40.jpg																									</key>
+			<key>club.machipre.net</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://club.machipre.net/wp-content/uploads/2014/10/82edfa37d9622bd8dce8f22598c07fc0.jpg																									</key>
+			<key>designlink-japan.com																								</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://designlink-japan.com/01-Starbucks-1-130911-Reduced.jpg																									</key>
+			<key>diary.eiji-taniguchi.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://diary.eiji-taniguchi.com/wp-content/uploads/DSC05814.jpg</key>
+			<key>hamburger.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://hamburger.jp/photo/special488_26.jpg																									</key>
+			<key>img.4travel.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://img.4travel.jp/img/tcs/t/album/src/10/86/34/src_10863433.jpg?1393726911																									</key>
+			<key>j-town.net</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://j-town.net/images/2016/town/town20160408171043.jpg</key>
+			<key>livedoor.blogimg.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://livedoor.blogimg.jp/tomato1111/imgs/2/a/2a6679a1.jpg</key>
+			<key>maboroshi-ch.com																								</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://maboroshi-ch.com/maboblog/saeki/58-9.jpg																									</key>
+			<key>nikkei-site.com																							</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://nikkei-site.com/images/akebon2.jpg																									</key>
+			<key>pazulog.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://pazulog.com/wp/wp-content/uploads/2014/02/rojinasabou-7.jpg																									</key>
+			<key>rekishihodan.up.n.seesaa.net</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://rekishihodan.up.n.seesaa.net/rekishihodan/image/nicholai_02.jpg?d=a1																									</key>
+			<key>sumitai.ne.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://sumitai.ne.jp/urayasu/wp-content/uploads/2016/07/DSC_5411.jpg</key>
+			<key>tempura-sansada.co.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://tempura-sansada.co.jp/_src/sc1618/honkan-entrance.jpg</key>
+			<key>www.asahi-kasei.co.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.asahi-kasei.co.jp/asahi/jp/news/2017/images/ho170530_01.jpg																									</key>
+			<key>www.asakusa-w.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.asakusa-w.com/search_jinjya/images/list/17_shrine_list.jpg																									</key>
+			<key>www.cmrc.co.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.cmrc.co.jp/cmrc/wp-content/uploads/2013/10/minamitakahasi.jpg																									</key>
+			<key>www.dubliners.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.dubliners.jp/common/img/shop_shinjuku_photo01.jpg	</key>
+			<key>www.funkygoods.com																								</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.funkygoods.com/hai/uenosita/uenoshita_01.jpg																									</key>
+			<key>www.geocities.jp																								</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.geocities.jp/bane2161/PICT05191.jpg																									</key>
+			<key>www.geocities.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.geocities.jp/yuumaru_a/mirage/m-tour/mira-tour-photo/toshima-en/toshimaen-pool.jpg																									</key>
+			<key>www.gijyutu.com																									</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.gijyutu.com/ooki/kenngaku98-99/tokiwa/tokiwa43.jpg																									</key>
+			<key>www.kajima.co.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.kajima.co.jp/news/digest/jul_2013/feature/question3/image/img_q3_06.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://www.pdon.jp/image/headpower/headpower-stage.jpg																									</key>
+			<key>www.pdon.jp																								</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoadsNSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.team-lens.com/heartstrings/2016/img_08/2016_0810-photo3.jpg</key>
+			<key>www.team-lens.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.tnm.jp/tnm_images/his10-01.jpg																									</key>
+			<key>www.tnm.jp																								</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.tobu.co.jp/ike2/back/vol23/west/images/no2/shop07.jpg																									</key>
+			<key>www.tobu.co.jp																									</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.trine.jp/wordpress/wp-content/themes/kyma/images/slide3.jpg																									</key>
+			<key>www.trine.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www.weatherballoon.co.jp/images/company/image01.jpg</key>
+			<key>www.weatherballoon.co.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>http://www15.plala.or.jp/timebox/top/05komamori/76/image/meguro-23.jpg																									</key>
+			<key>www15.plala.or.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://asakusakanko.com/wp-content/uploads/2014/09/Asakusa1918.jpg																									</key>
+			<key>asakusakanko.com</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://assets.kurashicom.com/blog/uploads/2016/05/kissaten_lion_DF2_0058.jpg																									</key>
+			<key>1964.mapping.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://blog-001.west.edge.storage-yahoo.jp/res/blog-6a-03/yasainikon/folder/546315/30/6293430/img_1?1251516176																									</key>
+			<key>hiroshima.archiving.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://blog-001.west.edge.storage-yahoo.jp/res/blog-8b-18/mk26813/folder/1456332/10/62357310/img_0?1364348524																									</key>
+			<key>cyberjapandata.gsi.go.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://blog-001.west.edge.storage-yahoo.jp/res/blog-9a-4b/aromanonnon/folder/1212984/14/38913314/img_10?1439131648																									</key>
+			<key>１ - 31 - 2 - 4 - 2</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://cdn-ak.f.st-hatena.com/images/fotolife/M/Meshi2_IB/20151026/20151026224306.jpg</key>
+			<key>１ - 31 - 2 - 4 - 3</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://cdn.locari.jp/web/images/p/post_element/picture/142738/442be59dd76fda3e87625113f51e3015.jpg	</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://i.ytimg.com/vi/7xdk4gV3k6k/maxresdefault.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://icotto.k-img.com/system/press_images/000/014/236/a6139af100aee7353d7ef3c6aadb5a646ff1dc00.jpg?1452323480																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://icotto.k-img.com/system/press_images/000/236/744/734d1326eb4bd5cdb451eeb9025b6f1867e7468f.jpeg?1500604278																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://igx.4sqi.net/img/general/width960/61538302_gy4qS7Ge86cdkea8rcFeTg3ir-OV7r-4PK9Ct0OXXic.jpg	</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://img.guide.travel.co.jp/article/218/20150327230949/07C5C52255B04CA39EAC2A82A72037E0_LL.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://img.guide.travel.co.jp/article/717/20160505014057/F537BCDD920441F3A0C0FDA05DAC247D_L.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://japanbook.net/uploads/images/1b0f0450.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://jinja.tokyolovers.jp/wp-content/uploads/2014/05/89f55229e553667fcfed1fec1090721b.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://jinja.tokyolovers.jp/wp-content/uploads/2014/07/2995fae62a628538348e4ac511b1ed23.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://kotobank.jp/image/dictionary/daijisen/media/114524.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh3.googleusercontent.com/Novcq-jTJHDEznRPTqRBKo_Ym7tQTu_0sopMvuD2o3JcFF_kzgHp_tIW0_hCbkodv-qxNSYL11Hhl64=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh3.googleusercontent.com/c07R4USYRqb9-0HQYuXUbEeIg9ESQmbbuTV5WMQHoBgt16Ya7FvfUshnoIgx_u2pF9IGLFfvw_DM4PY=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh3.googleusercontent.com/gEBcceQfZtmaDo7kQh__PFSL6_KOSt3CU4tgbRk4qtdjp3I17xRej5frRdmV-3URrqqtm4ODppdZsNQ=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh4.googleusercontent.com/SV350qbXMdyZiYLI5Hm_vfC-NB_Q6t0yTprX9lAnH8L_fbZDuJ6sU69Izy9IR1Yn50LIx8qB2iMVdBk=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh5.googleusercontent.com/Zu4OnEj976u6eHD_G8jsS9QCpgDCGC4ZE5hrp281Or9vzYBL1sn0iiXeZhnUWLeqKkKHQZhJMaKwRMQ=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh5.googleusercontent.com/t-_JjrA7ystPlNZYv1QYuqXbsWRYkk79hNB8Rupjok7Q8P7xNM2uB-Bvk7Lx85OwFebH6PHyiSmniMc=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh6.googleusercontent.com/-n24lsG3eZFY/VySLmMXHSyI/AAAAAAABODI/eY7acSIMGcQ5ixCGziB2O469fp5K6pwFgCJkC/w426-h320-k-no/																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh6.googleusercontent.com/xAMVpx1xCxzwPr_LbhdynOg7O5KIzCDFI0OORVpU9QKVBEgs39p-YUy1jeZjkVfLojcI_kDQQ3qoqlo=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://media-cdn.tripadvisor.com/media/photo-s/09/62/cb/8e/caption.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://pbs.twimg.com/media/CKFr3EQUAAEkg7f.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://prtimes.jp/i/13052/23/resize/d13052-23-376528-4.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://tabelog.com/restaurant/images/Rvw/41775/41775672.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://tabelog.ssl.k-img.com/restaurant/images/Rvw/18328/18328587.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://tabelog.ssl.k-img.com/restaurant/images/Rvw/39957/640x640_rect_39957233.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://upload.wikimedia.org/wikipedia/commons/5/56/Tokyo_Dome_2007-12.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://www.1net.co.jp/wp-content/uploads/2016/03/koganei-SANY0094.jpg																									 - 2</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://www.matsuyafoods.co.jp/recruit/new_2017/philosophy/img/roots-h2.jpg																									</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://www.muji.net/img/lab/blog/aoyama/110715_img01.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh4.googleusercontent.com/NZeTDicpbAnOFuroDoSXVzIFL_V1nv2uAoG3TQ7ng4sfvVELeL17AwH07F95gpC5Ypo7F5_8GA61Rb0=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh5.googleusercontent.com/Rw9-sL2UM9ibBNeukywkcAikvshS1wj-GKEv0mWE6V9GlO9r_YhKb_Xs97zrxJWRbqsNqiX4cVEl8ic=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh4.googleusercontent.com/IR-xO6zB30RJrm9FQG6_qTGaXj7le5efHqkDjK51u2pOOsAB36RS2x2BPxB7ge159d11kIFp01YOW6M=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh5.googleusercontent.com/hYGit45nacfvoTU4vopJIuW8VFwHuqP8veh0LmCx_nxMm5SUEyxaPt0sKRuwQFuWrUwPVPqHKYrcS8E=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh6.googleusercontent.com/SUIZEjQsQF8bKBSNlp-OkXlcqbZIrbu2HT7mQwB-v8ZH-zDspOsBjLiuMvi9x2ZZ7EFB-W9dpTz26bc=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh4.googleusercontent.com/oeZwFZ_gBEgwYXBmUKcNShB9cYZfGngClRYf-1lun6GTaeIf-FrXRjyIrNAsMlYqS2NdY65qbhmhePA=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>https://lh4.googleusercontent.com/vI7W_w8t_HJe7qGZcwIOEdpshpcyBeATky1-24yPSAOXzUUwzSHMph3rCG_4cOLZ_DgwcZ6XUhAupQ0=w2880-h1564</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://1964.mapping.jp/</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://hiroshima.archiving.jp/</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>１ - 31 - 2 - 4</key>
+			<key>１ - 31 - 2 - 4 - 4</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>

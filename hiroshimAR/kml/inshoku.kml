@@ -539,7 +539,7 @@ http://lion.main.jp/info/infomation.htm</a>
 			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
 <p class = "subject">フレッシュネスバーガー</p>
 <CENTER>
-<p class="image"><img src="http://hamburger.jp/photo/special488_26.jpg" width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+<p class="image"><img src="http://hamburger.jp/photo/special488_26.jpg " width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
 </CENTER>
 <p class="body">
 　1992年に渋谷区富ヶ谷にできた「フレッシュネスバーガー」日本の１号店。
