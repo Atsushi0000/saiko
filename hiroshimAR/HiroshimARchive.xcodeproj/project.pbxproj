@@ -24,7 +24,13 @@
 		033ED8151A91B12C00E6EBB9 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 033ED8041A91B12C00E6EBB9 /* UIImageView+WebCache.m */; };
 		033ED8161A91B12C00E6EBB9 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 033ED8061A91B12C00E6EBB9 /* UIView+WebCacheOperation.m */; };
 		033ED8181A91B14600E6EBB9 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 033ED8171A91B14600E6EBB9 /* ImageIO.framework */; };
-		0D180C001F21E0C700105B8E /* oldest_Takuyo.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0D180BFF1F21E0C700105B8E /* oldest_Takuyo.kml */; };
+		0DFCE0D01F2A52C8000E5607 /* goraku.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCE0C91F2A52C8000E5607 /* goraku.kml */; };
+		0DFCE0D11F2A52C8000E5607 /* kenzobutsu.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCE0CA1F2A52C8000E5607 /* kenzobutsu.kml */; };
+		0DFCE0D21F2A52C8000E5607 /* public.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCE0CB1F2A52C8000E5607 /* public.kml */; };
+		0DFCE0D31F2A52C9000E5607 /* school.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCE0CC1F2A52C8000E5607 /* school.kml */; };
+		0DFCE0D41F2A52C9000E5607 /* inshoku.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCE0CD1F2A52C8000E5607 /* inshoku.kml */; };
+		0DFCE0D51F2A52C9000E5607 /* kigyo.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCE0CE1F2A52C8000E5607 /* kigyo.kml */; };
+		0DFCE0D61F2A52C9000E5607 /* kouri.kml in Resources */ = {isa = PBXBuildFile; fileRef = 0DFCE0CF1F2A52C8000E5607 /* kouri.kml */; };
 		1A4B76FB11907DD600940A50 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A4B76FA11907DD600940A50 /* MapKit.framework */; };
 		1A4B770A11907E0300940A50 /* KMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A4B770911907E0300940A50 /* KMLParser.m */; };
 		1A4B77311190911400940A50 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A4B77301190911400940A50 /* CoreLocation.framework */; };
@@ -101,7 +107,13 @@
 		033ED8051A91B12C00E6EBB9 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
 		033ED8061A91B12C00E6EBB9 /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
 		033ED8171A91B14600E6EBB9 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
-		0D180BFF1F21E0C700105B8E /* oldest_Takuyo.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = oldest_Takuyo.kml; path = kml/oldest_Takuyo.kml; sourceTree = "<group>"; };
+		0DFCE0C91F2A52C8000E5607 /* goraku.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = goraku.kml; path = kml/goraku.kml; sourceTree = "<group>"; };
+		0DFCE0CA1F2A52C8000E5607 /* kenzobutsu.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = kenzobutsu.kml; path = kml/kenzobutsu.kml; sourceTree = "<group>"; };
+		0DFCE0CB1F2A52C8000E5607 /* public.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = public.kml; path = kml/public.kml; sourceTree = "<group>"; };
+		0DFCE0CC1F2A52C8000E5607 /* school.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = school.kml; path = kml/school.kml; sourceTree = "<group>"; };
+		0DFCE0CD1F2A52C8000E5607 /* inshoku.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = inshoku.kml; path = kml/inshoku.kml; sourceTree = "<group>"; };
+		0DFCE0CE1F2A52C8000E5607 /* kigyo.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = kigyo.kml; path = kml/kigyo.kml; sourceTree = "<group>"; };
+		0DFCE0CF1F2A52C8000E5607 /* kouri.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = kouri.kml; path = kml/kouri.kml; sourceTree = "<group>"; };
 		1A4B76FA11907DD600940A50 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		1A4B770811907E0300940A50 /* KMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KMLParser.h; sourceTree = "<group>"; };
 		1A4B770911907E0300940A50 /* KMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KMLParser.m; sourceTree = "<group>"; };
@@ -373,7 +385,13 @@
 		5EE373FC1C4216F000D219C7 /* Kml */ = {
 			isa = PBXGroup;
 			children = (
-				0D180BFF1F21E0C700105B8E /* oldest_Takuyo.kml */,
+				0DFCE0C91F2A52C8000E5607 /* goraku.kml */,
+				0DFCE0CA1F2A52C8000E5607 /* kenzobutsu.kml */,
+				0DFCE0CB1F2A52C8000E5607 /* public.kml */,
+				0DFCE0CC1F2A52C8000E5607 /* school.kml */,
+				0DFCE0CD1F2A52C8000E5607 /* inshoku.kml */,
+				0DFCE0CE1F2A52C8000E5607 /* kigyo.kml */,
+				0DFCE0CF1F2A52C8000E5607 /* kouri.kml */,
 			);
 			name = Kml;
 			sourceTree = "<group>";
@@ -461,11 +479,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EE45FEC1A75620600655A95 /* MainWindow-iPad.xib in Resources */,
+				0DFCE0D41F2A52C9000E5607 /* inshoku.kml in Resources */,
+				0DFCE0D01F2A52C8000E5607 /* goraku.kml in Resources */,
+				0DFCE0D61F2A52C9000E5607 /* kouri.kml in Resources */,
 				9E2CC53B1A70EB630068E53B /* Launch_Screen.xib in Resources */,
+				0DFCE0D51F2A52C9000E5607 /* kigyo.kml in Resources */,
 				533ECC0C11F63EA00067A265 /* MainWindow.xib in Resources */,
 				9EE45FF11A75621900655A95 /* DetailViewController-iPad.xib in Resources */,
+				0DFCE0D21F2A52C8000E5607 /* public.kml in Resources */,
 				CE9D55C7141586310096593A /* information.html in Resources */,
-				0D180C001F21E0C700105B8E /* oldest_Takuyo.kml in Resources */,
+				0DFCE0D31F2A52C9000E5607 /* school.kml in Resources */,
+				0DFCE0D11F2A52C8000E5607 /* kenzobutsu.kml in Resources */,
 				9E410C331A49471300E5F9EF /* Images.xcassets in Resources */,
 				9EE45FEF1A75621000655A95 /* KMLViewerViewController-iPad.xib in Resources */,
 				A0CA49C0141D3DE4009AF2B8 /* DetailViewController.xib in Resources */,
@@ -566,7 +590,7 @@
 				GCC_PREFIX_HEADER = hiroshimaKML_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "hiroshimaKML-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Vendors/xAuthTwitterEngine/OAuthConsumer\"",
@@ -581,7 +605,7 @@
 				PROVISIONING_PROFILE = "68cdb9c6-4659-431d-97c5-9c73ef184f57";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				PROVISIONING_PROFILE_SPECIFIER = HiroshimaDevelopment;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALID_ARCHS = "armv7 arm64 armv7s";
 			};
@@ -603,7 +627,7 @@
 				GCC_PREFIX_HEADER = hiroshimaKML_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "hiroshimaKML-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Vendors/xAuthTwitterEngine/OAuthConsumer\"",
@@ -617,7 +641,7 @@
 				PROVISIONING_PROFILE = "51d28ff0-e1a2-4165-8c69-4d20021d0d05";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				PROVISIONING_PROFILE_SPECIFIER = HiroshimaDistribution;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "";
 				VALIDATE_PRODUCT = YES;
 				VALID_ARCHS = "armv7 arm64 armv7s";

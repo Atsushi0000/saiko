@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kouri.kml</name>
+	<Style id="kouri0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>hhttps://lh4.googleusercontent.com/IR-xO6zB30RJrm9FQG6_qTGaXj7le5efHqkDjK51u2pOOsAB36RS2x2BPxB7ge159d11kIFp01YOW6M=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="kouri1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh4.googleusercontent.com/IR-xO6zB30RJrm9FQG6_qTGaXj7le5efHqkDjK51u2pOOsAB36RS2x2BPxB7ge159d11kIFp01YOW6M=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="kouri">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#kouri0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#kouri1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>kouri</name>
+		<Placemark>
+			<name>日本橋三越本店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">デパート</p>
+<CENTER>
+<p class="image"><img src="http://www.team-lens.com/heartstrings/2016/img_08/2016_0810-photo3.jpg " width = "300" height = "218.727"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1673年に呉服店「越後屋」として創業して以来、伝統と改革を大切に継承し、進化を遂げている老舗百貨店。
+</p>
+<p class="body">
+1904年、新聞や雑誌などへ大々的に「デパートメントストア宣言」を行ない、本格的で近代的な欧米スタイルの百貨店を目指すことを発表。「日本で最初の百貨店」の歴史がはじまったとされている。日本文化の発信拠点として、迫力のある品揃えを誇っている。
+</p>
+<p class="body">
+1914年に本格正面玄関に設置されたライオン像は、三越のシンボル。ロンドンのトラファルガー広場にあるホレーショ・ネルソン提督像を囲むライオン像がモデルとされ、完成までに3年の歳月を要したため、イギリスの彫刻界でも当時話題となった。関東大震災や戦火を逃れていまなお歴史を刻んでいるが、全国各地の三越主要店舗にも日本橋本店のライオン像を模したものが設置されている。
+
+</p>
+
+<p class="body">参考：
+<a href = "https://www.japan-luxury-guide.com/article/?ID=code187">
+https://www.japan-luxury-guide.com/article/?ID=code187</a>
+</br>参考：<a href="http://www.team-lens.com/heartstrings/2016/img_08/2016_0810-photo3.jpg">http://www.team-lens.com/heartstrings/2016/img_08/2016_0810-photo3.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7736633489917</longitude>
+				<latitude>35.6852585755442</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002315463002091329</heading>
+				<tilt>21.64223881686382</tilt>
+				<range>149.5359885033434</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kouri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7734223590111,35.68558227724005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浅草地下商店街</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">地下商店街</p>
+<CENTER>
+<p class="image"><img src="http://blog-imgs-55.fc2.com/n/i/g/nighttrain999/20120503123307198.jpg " width = "300" height = "199.162"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1955年に開設。
+</p>
+<p class="body">
+　東京・銀座三原橋地下街の最後のお店「三原カレーコーナー」が2014年4月27に閉店したことにより、最古の地下商店街は東京・浅草地下商店街となった。商店街の規模としてはとても小さいもので、端から端まで見渡せてしまうほどだ。開設から60年を経ており、現在営業しているお店の数もそう多くはない。昭和のノスタルジーを感じさせる佇まいは切ない。まるで時代に取り残されたような気分になる。それと同時に、懐かしさに癒される思いもするのである。
+
+</p>
+<p class= "body">参考：<a href="http://rocketnews24.com/2014/06/01/447109/">http://rocketnews24.com/2014/06/01/447109/</a>
+</br>参考：<a href="http://blog-imgs-55.fc2.com/n/i/g/nighttrain999/20120503123307198.jpg">http://blog-imgs-55.fc2.com/n/i/g/nighttrain999/20120503123307198.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7979387</longitude>
+				<latitude>35.71123259999999</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000051</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kouri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7979387,35.7112326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>セブンイレブン豊洲店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">セブンイレブン</p>
+<CENTER>
+<p class="image"><img src="http://j-town.net/images/2016/town/town20160408171043.jpg " width = "300" height = "224.745"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1974年5月15日、東京都江東区に「豊洲店」オープン。
+</p>
+<p class="body">
+	初日の一番最初に売れた商品は「サングラス」だったという。
+</p>
+
+<p class= "body">参考：<a href="http://www.jj4649.com/chisiki4.html">http://www.jj4649.com/chisiki4.html</a>
+</br>参考：<a href="http://j-town.net/images/2016/town/town20160408171043.jpg">http://j-town.net/images/2016/town/town20160408171043.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7981963</longitude>
+				<latitude>35.65539859999998</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000704</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kouri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7981963,35.65539859999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>無印良品青山店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">無印良品</p>
+<CENTER>
+<p class="image"><img src="https://www.muji.net/img/lab/blog/aoyama/110715_img01.jpg " width = "238.235" height = "300"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1983年に開店した無印良品青山店（東京）。
+</p>
+<p class="body">
+　西武のプライベート・ブランドして始まり文具や衣類、雑貨だけでなく食事やキャンプ場さらに家という人生に関わるものを多く手がけてる良品計画。一号店はオシャレの中心である青山にある。２０１１年秋にＦｏｕｎｄ　ＭＵＪＩ青山として生まれ変わった。
+</p>
+
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a>
+</br>参考：<a href="https://www.muji.net/img/lab/blog/aoyama/110715_img01.jpg">https://www.muji.net/img/lab/blog/aoyama/110715_img01.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7099330000005</longitude>
+				<latitude>35.662972</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000293</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kouri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7099330000005,35.662972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ドン・キホーテ府中店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ドン・キホーテ</p>
+<CENTER>
+<p class="image"><img src="https://pbs.twimg.com/media/CKFr3EQUAAEkg7f.jpg " width = "300" height = "298.5"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1989年3月、東京都府中市に第一号店のドン・キホーテ府中店がオープンした。
+</p>
+<p class="body">
+	2005年8月21日に閉店しリニューアルした。
+</p>
+<p class= "body">参考：<a href="http://www.donki.com/faq/detail.php?faqid=2244">http://www.donki.com/faq/detail.php?faqid=2244</a>
+</br>参考：<a href="https://pbs.twimg.com/media/CKFr3EQUAAEkg7f.jpg">https://pbs.twimg.com/media/CKFr3EQUAAEkg7f.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.4902879468818</longitude>
+				<latitude>35.67073980441579</latitude>
+				<altitude>0</altitude>
+				<heading>-1.317703804530335e-11</heading>
+				<tilt>0</tilt>
+				<range>1006.844972409428</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kouri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4902879468818,35.67073980441579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新仲見世商店街</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">アーケード商店街</p>
+<CENTER>
+<p class="image"><img src="http://diary.eiji-taniguchi.com/wp-content/uploads/DSC05814.jpg " width = "300" height = "224.921"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　昭和5年に浅草松屋が開店、それに伴い六区振興街までの道が出来、商店街の形態を整えるまでになった。
+</p>
+<p class="body">
+　平成21年よりアーケードの大規模修繕工事が開始し、平成23年3月に新アーケードが無事完成した。奇しくも工事期間中に東日本大震災を経験しましたが、既に新アーケードは完成していたので、事なきを得ることができた。
+</p>
+
+<p class= "body">参考：<a href="http://www.asakusa-shinnaka.com/history_frame.html#.WW6mfRPyiu5">http://www.asakusa-shinnaka.com/history_frame.html#.WW6mfRPyiu5</a>
+</br>参考：<a href="http://diary.eiji-taniguchi.com/wp-content/uploads/DSC05814.jpg">http://diary.eiji-taniguchi.com/wp-content/uploads/DSC05814.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7934516999999</longitude>
+				<latitude>35.71240850000001</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>999.9999999989803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kouri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7934516999999,35.71240850000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>紀ノ国屋インターナショナル</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">スーパーマーケット</p>
+<CENTER>
+<p class="image"><img src="http://archive.foodrink.co.jp/snapshot/ss0811/bar6.gif " width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1953年（昭和28年）東京・青山に、対面販売ではなくセルフサービス方式による日本で初めての食料品スーパーマーケットを開業した。
+</p>
+<p class="body">
+　紀ノ国屋は、東京都を拠点とする高級スーパーマーケットチェーンである。東日本旅客鉄道（JR東日本）の完全子会社である株式会社紀ノ國屋によって運営されている。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B">https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B</a>
+</br>参考：<a href="http://archive.foodrink.co.jp/snapshot/ss0811/bar6.gif">http://archive.foodrink.co.jp/snapshot/ss0811/bar6.gif</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7107472</longitude>
+				<latitude>35.66375230000001</latitude>
+				<altitude>0</altitude>
+				<heading>-9.54166404439055e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000402</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kouri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7107627320134,35.66364714133419,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

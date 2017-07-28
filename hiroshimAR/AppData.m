@@ -205,7 +205,37 @@ NSComparisonResult DistanceSortClosestFirst(Article *a1, Article *a2, void *igno
     // 日本語の場合は日本語KMLをロード
     if ([currentLanguage hasPrefix:@"ja"]) {
         [self loadFromInformation:mode
-                          kmlName:@"oldest_Takuyo"
+                          kmlName:@"public"
+                         pinColor:MKPinAnnotationColorGreen
+                     imageEnabled:YES];
+        
+        [self loadFromInformation:mode
+                          kmlName:@"school"
+                         pinColor:MKPinAnnotationColorGreen
+                     imageEnabled:YES];
+        
+        [self loadFromInformation:mode
+                          kmlName:@"inshoku"
+                         pinColor:MKPinAnnotationColorGreen
+                     imageEnabled:YES];
+        
+        [self loadFromInformation:mode
+                          kmlName:@"kigyo"
+                         pinColor:MKPinAnnotationColorGreen
+                     imageEnabled:YES];
+        
+        [self loadFromInformation:mode
+                          kmlName:@"kouri"
+                         pinColor:MKPinAnnotationColorGreen
+                     imageEnabled:YES];
+        
+        [self loadFromInformation:mode
+                          kmlName:@"kenzobutsu"
+                         pinColor:MKPinAnnotationColorGreen
+                     imageEnabled:YES];
+        
+        [self loadFromInformation:mode
+                          kmlName:@"goraku"
                          pinColor:MKPinAnnotationColorGreen
                      imageEnabled:YES];
     } else {

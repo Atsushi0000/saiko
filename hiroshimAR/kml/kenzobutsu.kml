@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kenzobutsu.kml</name>
+	<Style id="kenzobutsu0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh5.googleusercontent.com/hYGit45nacfvoTU4vopJIuW8VFwHuqP8veh0LmCx_nxMm5SUEyxaPt0sKRuwQFuWrUwPVPqHKYrcS8E=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="kenzobutsu1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh5.googleusercontent.com/hYGit45nacfvoTU4vopJIuW8VFwHuqP8veh0LmCx_nxMm5SUEyxaPt0sKRuwQFuWrUwPVPqHKYrcS8E=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="kenzobutsu">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#kenzobutsu0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#kenzobutsu1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>kenzobutsu</name>
+		<Placemark>
+			<name>五条天神社</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">神社</p>
+<CENTER>
+<p class="image"><img src="http://www.asakusa-w.com/search_jinjya/images/list/17_shrine_list.jpg" width = "300" height = "211.8"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　第十二代景行天皇の時代、110年に創建されたと言い伝えられている。
+</p>
+<p class="body">
+　大己貴命（おおむなじのみこと）と少彦名命（すくなひこなのみこと）を祀った神社である。社地は創建以来、天神山（今の摺鉢山）、瀬川屋敷（アメヤ横丁入口）他、何度か変遷を重ね、昭和3年9月に創祀の地に最も近い現在の場所に遷座した。
+</p>
+<p class="body">参考：<a href="http://www.guidenet.jp/shop/4532/">http://www.guidenet.jp/shop/4532/</a></br>
+参考：<a href="http://www.asakusa-w.com/search_jinjya/images/list/17_shrine_list.jpg">http://www.asakusa-w.com/search_jinjya/images/list/17_shrine_list.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7721598995929</longitude>
+				<latitude>35.71357050006996</latitude>
+				<altitude>0</altitude>
+				<heading>-2.376764902364057e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000007654352</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7721598995929,35.71357050006996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第六天榊神社</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">神社</p>
+<CENTER>
+<p class="image"><img src="https://jinja.tokyolovers.jp/wp-content/uploads/2014/05/89f55229e553667fcfed1fec1090721b.jpg" width = "300" height = "168.75"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　景行天皇の代の40年（110年）に、東征中の日本武尊が鏡を埋め皇祖2神を祀り、後に民が祠を建てたのを始まりとしている。
+</p>
+<p class="body">
+　第六天社の総本社と名乗る神社である。かつて台東区内の鳥越に鎮座していたが、江戸時代の正保2年（1645年）に浅草森田町に分離し遷座、さらに享保4年（1719年）に浅草橋の近くに移り、現社地に遷座したのは昭和3年（1928年）。
+</p>
+<p class = "body">
+　社殿は昭和8年建造の鉄筋コンクリート建築で、第二次世界大戦時の空襲で外部だけとなり、昭和31年に大改修した。
+</p>
+<p class="body">参考：<a href="http://www.visiting-japan.com/ja/articles/tokyo/j13tt-sakaki-jinja.htm">http://www.visiting-japan.com/ja/articles/tokyo/j13tt-sakaki-jinja.htm</a></br>
+参考：<a href="https://jinja.tokyolovers.jp/wp-content/uploads/2014/05/89f55229e553667fcfed1fec1090721b.jpg">https://jinja.tokyolovers.jp/wp-content/uploads/2014/05/89f55229e553667fcfed1fec1090721b.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7890649998963</longitude>
+				<latitude>35.70023909973233</latitude>
+				<altitude>0</altitude>
+				<heading>-6.04750667133473e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000039942085</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7890649998963,35.70023909973234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>正福寺地蔵堂</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">木造建築</p>
+<CENTER>
+<p class="image"><img src="http://club.machipre.net/wp-content/uploads/2014/10/82edfa37d9622bd8dce8f22598c07fc0.jpg" width = "300" height = "213.25"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　室町時代の応永14年（1407年）建立。
+</p>
+<p class="body">
+　北条時宗が鷹狩りの際病気にかかり、夢に現れた黄衣をまとった地蔵菩薩からもらった丸藥を飲んだのち、眠りから覚めると病が治ったことから、地蔵尊を信仰して弘安元年（1278年）に建立したと寺伝にあったが、昭和9年の改修の際発見された墨書銘により1407年建立と分かった。
+</p>
+<p class="body">参考：<a href="https://www.city.higashimurayama.tokyo.jp/tanoshimi/rekishi/furusato/bunkazai/fukikae.html">https://www.city.higashimurayama.tokyo.jp/tanoshimi/rekishi/furusato/bunkazai/fukikae.html</a></br>
+参考：<a href="http://club.machipre.net/wp-content/uploads/2014/10/82edfa37d9622bd8dce8f22598c07fc0.jpg">http://club.machipre.net/wp-content/uploads/2014/10/82edfa37d9622bd8dce8f22598c07fc0.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.4595500002581</longitude>
+				<latitude>35.7647917999483</latitude>
+				<altitude>0</altitude>
+				<heading>1.50815541885637e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000023345733</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4595500002581,35.7647917999483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>目黒不動尊</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">狛犬</p>
+<CENTER>
+<p class="image"><img src="http://www15.plala.or.jp/timebox/top/05komamori/76/image/meguro-23.jpg" width = " 255.29" height = "300"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　承応3年（1654年）3月22日に建立。
+</p>
+<p class ="body">参考：<a href="http://akatoge.jp/megurofudoukomainu.html">http://akatoge.jp/megurofudoukomainu.html</a></br>
+参考：<a href="http://www15.plala.or.jp/timebox/top/05komamori/76/image/meguro-23.jpg">http://www15.plala.or.jp/timebox/top/05komamori/76/image/meguro-23.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.708606800652</longitude>
+				<latitude>35.62772039969972</latitude>
+				<altitude>0</altitude>
+				<heading>3.798313817244176e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.00001392349</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.708606800652,35.62772039969972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>常磐橋</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">石橋</p>
+<CENTER>
+<p class="image"><img src="http://www.gijyutu.com/ooki/kenngaku98-99/tokiwa/tokiwa43.jpg" width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治10年（1877年）にかけられた。始めは天正18年（1590年）にかけられたと言われ、江戸幕府三代将軍家光の頃までは大橋や浅草口橋とも呼ばれていた。改名の上意を受けた町年寄奈良屋市右衛門が寄宿の浪人から「常磐」の名を得て、これを献上した。これは『金葉和歌集』の「色かえぬ松によそえて東路の常磐の橋にかかる藤浪」の意だと言われている。
+</p>
+<p class="body">
+　現在は車で通ることはできない。銘板には「常磐橋」と刻んである。
+</p>
+<p class="body">参考：<a href="http://www.kanko-chiyoda.jp/tabid/654/Default.aspx">http://www.kanko-chiyoda.jp/tabid/654/Default.aspx</a></br>
+参考：<a href="http://www.gijyutu.com/ooki/kenngaku98-99/tokiwa/tokiwa43.jpg">http://www.gijyutu.com/ooki/kenngaku98-99/tokiwa/tokiwa43.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7702468459574</longitude>
+				<latitude>35.68633444579697</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001217160485755167</heading>
+				<tilt>23.57581434941888</tilt>
+				<range>250.3226128443729</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7703959462817,35.68608996136859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京藝術大学　赤レンガ1号館</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">レンガ建築</p>
+<CENTER>
+<p class="image"><img src="http://blogimg.goo.ne.jp/user_image/74/3a/25c18a35f551f69d46bce6509536bb40.jpg" width = "300" height = "199.69"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治9年に教育博物館の書庫として建てられ。竣工したのは明治13年（1880年）。
+</p>
+<p class="body">
+　すべての開口部に鉄扉を付設するなどの不燃性を重視したつくりが幸いし、今も現存している。東京藝術大学の前身、東京美術学校へ移管された後、関東大震災で被害を受けつつ、書庫から藝大附属図書館書庫、電話交換所、教室など模様替えをされながら様々な利用をされてきた。
+</p>
+<p class="body">参考：<a href="http://konmasa102.exblog.jp/14860666/">http://konmasa102.exblog.jp/14860666/</a></br>
+参考：<a href="http://www.gijyutu.com/ooki/kenngaku98-99/tokiwa/tokiwa43.jpg">http://www.gijyutu.com/ooki/kenngaku98-99/tokiwa/tokiwa43.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7723982930273</longitude>
+				<latitude>35.7192244100526</latitude>
+				<altitude>0</altitude>
+				<heading>7.581114036616569e-05</heading>
+				<tilt>21.15061633021356</tilt>
+				<range>325.1970640591042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7721219038893,35.71952292617791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>靖国神社　能楽堂</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">木造能楽堂</p>
+<CENTER>
+<p class="image"><img src="http://img.4travel.jp/img/tcs/t/album/src/10/86/34/src_10863433.jpg?1393726911" width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治14年（1881年）に東京・芝公園に建てられた。明治36年（1903年）に靖国神社に奉納、移築された。
+</p>
+<p class="body">
+　この舞台では神霊を慰めるための能や日本舞踊などの芸能が行われる。
+</p>
+<p class="body">参考：<a href="http://www.yasukuni.or.jp/precincts/nohstage.html">http://www.yasukuni.or.jp/precincts/nohstage.html</a></br>
+参考：<a href="http://img.4travel.jp/img/tcs/t/album/src/10/86/34/src_10863433.jpg?1393726911">http://img.4travel.jp/img/tcs/t/album/src/10/86/34/src_10863433.jpg?1393726911</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7437186234201</longitude>
+				<latitude>35.69440790967744</latitude>
+				<altitude>0</altitude>
+				<heading>-5.831980390209152e-05</heading>
+				<tilt>20.38814796715356</tilt>
+				<range>280.4132091540101</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7439437112586,35.69467071840309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>宮益坂ビルディング</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">公営分譲マンション</p>
+<CENTER>
+<p class="image"><img src="https://blog-001.west.edge.storage-yahoo.jp/res/blog-9a-4b/aromanonnon/folder/1212984/14/38913314/img_10?1439131648" width = "300" height = "200.16"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1953年に東京都が分譲した、日本初といわれる分譲マンション。
+</p>
+<p class="body">
+　地上11階建て地下1階建てで、1階が店舗、2～4階が事務所、5階以上が住宅として分譲された。売主の東京都が2億円の工費を投じて建てたとされる、当時としては最先端の共同住宅は、すべての住戸が34.01m2の広さで、価格は102万2000円。今なら億ションとされる価格らしい。新聞記事では「天国の百万円アパート」「特別船室さながらの豪華版！」などとして話題になった。全70戸のうち47戸は会社重役が申し込んだとか。
+</p>
+<p class= "body">参考：<a href="http://suumo.jp/journal/2016/05/25/111556/">http://suumo.jp/journal/2016/05/25/111556/</a></br>
+参考：<a href="https://blog-001.west.edge.storage-yahoo.jp/res/blog-9a-4b/aromanonnon/folder/1212984/14/38913314/img_10?1439131648">https://blog-001.west.edge.storage-yahoo.jp/res/blog-9a-4b/aromanonnon/folder/1212984/14/38913314/img_10?1439131648</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7037819</longitude>
+				<latitude>35.65958629999999</latitude>
+				<altitude>0</altitude>
+				<heading>-3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7037819,35.65958629999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>四谷コーポラス</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">民間分譲マンション</p>
+<CENTER>
+<p class="image"><img src="http://www.asahi-kasei.co.jp/asahi/jp/news/2017/images/ho170530_01.jpg" width = "300" height = "198.96"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　日本信販の不動産部門である日本開発（株）が昭和31年（1956年）に分譲した日本最初の民間分譲マンション。
+</p>
+<p class="body">
+　総戸数28戸、5階建ての小規模物件ながら、当時の分譲価格は3ＬＤＫで約230万円だったそう。
+　その頃の国家公務員の初任給が8700円だから、現在の価格に直すとおよそ4500万円。
+
+</p>
+<p class= "body">参考：<a href="https://blogs.yahoo.co.jp/aromanonnon/24185663.html">https://blogs.yahoo.co.jp/aromanonnon/24185663.html</a></br>
+参考：<a href="http://www.asahi-kasei.co.jp/asahi/jp/news/2017/images/ho170530_01.jpg">http://www.asahi-kasei.co.jp/asahi/jp/news/2017/images/ho170530_01.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.729558</longitude>
+				<latitude>35.68908340000002</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000255</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.729558,35.68908340000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>コープ・オリンピア</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">億ション(高級マンション)</p>
+<CENTER>
+<p class="image"><img src="https://blog-001.west.edge.storage-yahoo.jp/res/blog-8b-18/mk26813/folder/1456332/10/62357310/img_0?1364348524" width = "300" height = "207.8"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1965年（昭和40年）に完成した第一号の億ション。
+</p>
+<p class="body">
+　建設されている建物は地上11階、地下2階建てで、延べ床面積は23,239平米である。住戸数は164戸で、各戸の占有面積は28 -215平米（平均79平米）である。
+
+</p>
+<p class= "body">参考：<a href="https://middle-edge.jp/articles/8S15Q">https://middle-edge.jp/articles/8S15Q</a></br>
+参考：<a href="https://blog-001.west.edge.storage-yahoo.jp/res/blog-8b-18/mk26813/folder/1456332/10/62357310/img_0?1364348524">https://blog-001.west.edge.storage-yahoo.jp/res/blog-8b-18/mk26813/folder/1456332/10/62357310/img_0?1364348524</a></p>]]></description>
+			<LookAt>
+				<longitude>139.703425</longitude>
+				<latitude>35.66910400000001</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463516e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001386</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.703425,35.66910400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>常磐台3丁目の縦型灯器</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">信号機</p>
+<CENTER>
+<p class="image"><img src="https://i.ytimg.com/vi/7xdk4gV3k6k/maxresdefault.jpg" width = "300" height = "168.75"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1967年（昭和）42年に作られた都内最古の信号機。
+</p>
+<p class= "body">参考：<a href="http://trafficsignalsexploration.web.fc2.com/k59.html">http://trafficsignalsexploration.web.fc2.com/k59.html</a></br>
+参考：<a href="https://i.ytimg.com/vi/7xdk4gV3k6k/maxresdefault.jpg">https://i.ytimg.com/vi/7xdk4gV3k6k/maxresdefault.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6835191518066</longitude>
+				<latitude>35.76368317578447</latitude>
+				<altitude>0</altitude>
+				<heading>154.7417620934781</heading>
+				<tilt>65.4582321965087</tilt>
+				<range>135.2697618952116</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6841799106465,35.76364403618818,3.948143771091166</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>霞が関ビルディング</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">超高層ビル（100m以上）</p>
+<CENTER>
+<p class="image"><img src="http://www.kajima.co.jp/news/digest/jul_2013/feature/question3/image/img_q3_06.jpg" width = "300" height = "218.38"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　東京倶楽部が経営していた旧・東京倶楽部ビル跡と霞会館（旧・華族会館）の敷地に建設され、1965年（昭和40年）3月18日に起工、1967年（昭和42年）4月18日に上棟し、1968年（昭和43年）4月12日にオープンした。
+</p>
+<p class="body">
+　当時の建築基準法により、31mという高さ制限（いわゆる百尺規制）があったため、当初は9階建てのビルの計画であったが、都市計画法改正（1961年）により導入された特定街区制度を利用して、超高層ビルへ計画変更された経緯がある。日本においてはじめての高層ビルの建設のため苦労も多かった。竣工当時、13階は縁起の悪い数字のため、テナントではなくビル内の空調機器をまとめて配置する機械室として用いられた。非常階段は中央共用部に設置され、火災時の煙が溜まらない構造となっていたが、停電時に自分の位置が分からなくなる可能性があり、また煙の滞留性にも不安が残ったため、後年の京王プラザホテルや新宿三井ビルディングでは非常階段の一部を外部に剥き出しにする構造が採られている[5]。最上階の36階に展望台があり賑わいをみせていたが、その後オフィスに改装された。現在は、35階に東海大学校友会館が入居して、レストラン、宴会場、会議場を運営しており（卒業生などに限らず、一般も利用可能）、このフロアが一般客が利用できる最上階となっている[6]。
+ビルの総容積は約50万立方メートル（総重量約10万トン）あり、東京ドームが竣工する前は莫大な体積を表現する際に「霞が関ビル何杯分」という表現がよく使われていた。
+
+</p>
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E9%9C%9E%E3%81%8C%E9%96%A2%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0">https://ja.wikipedia.org/wiki/%E9%9C%9E%E3%81%8C%E9%96%A2%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0</a></br>
+参考：<a href="http://www.kajima.co.jp/news/digest/jul_2013/feature/question3/image/img_q3_06.jpg">http://www.kajima.co.jp/news/digest/jul_2013/feature/question3/image/img_q3_06.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7472403949886</longitude>
+				<latitude>35.67118316671835</latitude>
+				<altitude>0</altitude>
+				<heading>7.00739807420042e-11</heading>
+				<tilt>0</tilt>
+				<range>1001.648451949875</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7472403949886,35.67118316671835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浅草寺</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">寺院</p>
+<CENTER>
+<p class="image"><img src="https://asakusakanko.com/wp-content/uploads/2014/09/Asakusa1918.jpg" width = "300" height = "191.5"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　大化元年（645年）に観音堂が建てられ、それ以来1,400年の歴史を誇ると言う。
+</p>
+<p class="body">
+　浅草の「浅草寺（せんそうじ）」は聖観世音菩薩を本尊とする観音霊場。由緒によると、飛鳥時代に隅田川の漁師兄弟の網に掛かった聖観世音菩薩像を安置したとされる。この本尊の聖観世音菩薩は慈悲深い仏であり、人々の苦しみを除き、世を救うとされる。また、観音菩薩を龍神が守護するとして龍神が祀られ、山号を「金龍山」と称している。そんな浅草寺の境内には、50箇所ともいわれるご利益スポットが散在している。
+
+
+</p>
+
+<p class= "body">参考：<a href="http://reki4.com/00333.html">http://reki4.com/00333.html</a></br>
+参考：<a href="https://asakusakanko.com/wp-content/uploads/2014/09/Asakusa1918.jpg">https://asakusakanko.com/wp-content/uploads/2014/09/Asakusa1918.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7966553</longitude>
+				<latitude>35.71476509999999</latitude>
+				<altitude>0</altitude>
+				<heading>6.361109362927034e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000501</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7966553,35.71476509999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>下谷神社</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">稲荷神社</p>
+<CENTER>
+<p class="image"><img src="https://jinja.tokyolovers.jp/wp-content/uploads/2014/07/2995fae62a628538348e4ac511b1ed23.jpg" width = "300" height = "168.75"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　730年に建てられた都内最古の稲荷神社である。
+</p>
+
+<p class= "body">参考：<a href="https://ameblo.jp/wildviolet-35/entry-12260526920.html">https://ameblo.jp/wildviolet-35/entry-12260526920.html</a></br>
+参考：<a href="https://jinja.tokyolovers.jp/wp-content/uploads/2014/07/2995fae62a628538348e4ac511b1ed23.jpg">https://jinja.tokyolovers.jp/wp-content/uploads/2014/07/2995fae62a628538348e4ac511b1ed23.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.781286</longitude>
+				<latitude>35.7107093</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000639</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.781286,35.7107093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>鳩森八幡神社</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">富士塚</p>
+<CENTER>
+<p class="image"><img src="https://img.guide.travel.co.jp/article/218/20150327230949/07C5C52255B04CA39EAC2A82A72037E0_LL.jpg" width = "300" height = "199.88"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　江戸時代に造られた都内最古の富士塚。
+</p>
+<p class="body">
+　富士塚とは、江戸時代に富士信仰が流行し、富士山に似せて造られた人工の山のことです。鳩森八幡神社の富士塚は江戸時代当時の場所、姿をとどめて現在まで残っている、都内最古の大変貴重な富士塚です。東京都の有形民俗文化財にも指定されています。
+</p>
+
+<p class= "body">参考：<a href="http://guide.travel.co.jp/article/16199/">http://guide.travel.co.jp/article/16199/</a></br>
+参考：<a href="https://img.guide.travel.co.jp/article/218/20150327230949/07C5C52255B04CA39EAC2A82A72037E0_LL.jpg">https://img.guide.travel.co.jp/article/218/20150327230949/07C5C52255B04CA39EAC2A82A72037E0_LL.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7093689</longitude>
+				<latitude>35.6776978</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>999.9999999988189</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7093689,35.67769779999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ニコライ堂</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">石造重要文化財</p>
+<CENTER>
+<p class="image"><img src="http://rekishihodan.up.n.seesaa.net/rekishihodan/image/nicholai_02.jpg?d=a1" width = "300" height = "190"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class = "body">　1891年に竣工。ニコライ堂（東京復活大聖堂）はこの本会敷地内に、聖ニコライの指導のもと、1884年に建設が開始され、、1891年3月8日に主イイスス・ハリストス（イエス・キリスト）の復活を記憶する復活大聖堂として成聖された。原設計はミハイル・シチュールポフ、実施設計はジョサイア・コンドル
+</p>
+<p class="body">参考：
+<a href = "http://nikolaido.org">
+http://nikolaido.org
+</a></br>
+参考：<a href="http://rekishihodan.up.n.seesaa.net/rekishihodan/image/nicholai_02.jpg?d=a1">http://rekishihodan.up.n.seesaa.net/rekishihodan/image/nicholai_02.jpg?d=a1</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7659607072149</longitude>
+				<latitude>35.6980230644371</latitude>
+				<altitude>0</altitude>
+				<heading>0.003156034791916776</heading>
+				<tilt>24.68984887211541</tilt>
+				<range>159.9403811239115</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.765325661409,35.69810100037748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>同潤会・上野下アパート</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">鉄筋コンクリート造アパート</p>
+<CENTER>
+<p class="image"><img src="http://www.funkygoods.com/hai/uenosita/uenoshita_01.jpg" width = "300" height = "200"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1929年（昭和4年）に完成。築80年越えのアパートである。
+</p>
+<p class="body">
+関東大震災後に発足した財団法人「同潤会」が、昭和元年から昭和9年までに、東京と横浜に16の”鉄筋コンクリート造アパート”を建てました。
+
+当時の最先端設備が導入され、電気・都市ガス・水道・ダスターシュート・水洗便所が完備されていたそうです。
+</p>
+<p class="body">
+日本で最も早く建てられた”鉄筋コンクリート造アパート”で、唯一現存しているアパートである。
+
+</p>
+
+<p class="body">参考：
+<a href = "http://2103center.blog112.fc2.com/blog-entry-524.html">
+http://2103center.blog112.fc2.com/blog-entry-524.html</a></br>
+参考：<a href="http://www.funkygoods.com/hai/uenosita/uenoshita_01.jpg">http://www.funkygoods.com/hai/uenosita/uenoshita_01.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7829955144398</longitude>
+				<latitude>35.71198996280367</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004736450271529116</heading>
+				<tilt>22.3687877997046</tilt>
+				<range>53.56074545477557</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7828921169469,35.71195326376036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>南高橋</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">道路鉄橋</p>
+<CENTER>
+<p class="image"><img src="http://www.cmrc.co.jp/cmrc/wp-content/uploads/2013/10/minamitakahasi.jpg" width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+南高橋は、１９０４（明治３７）年に隅田川に架けられた旧両国橋の一部を再利用し、関東大震災の復興事業として３２（昭和７）年に完成した。</p>
+<p class="body">
+中央区の亀島川河口に架かる「南高橋（みなみたかばし）」が、公益社団法人土木学会の「選奨土木遺産」に選ばれ、区に認定証が贈られた。現存する都内の鉄橋のうち道路橋としては最古で、貴重な歴史的土木構造物との評価を受けた。</p>
+</p>
+<p class="body">
+現在は区が管理し、９０年に区民有形文化財に登録されている。区は今後、選奨土木遺産の認定証と一緒に贈られたプレートを現地に取り付ける。
+　区によると、選奨土木遺産の認定は都内で１２番目で、２３区が管理する土木構造物では初めて。　
+</p>
+
+<p class="body">参考：
+<a href = "http://www.tokyo-np.co.jp/article/tokyo/list/201611/CK2016111702000160.html">
+http://www.tokyo-np.co.jp/article/tokyo/list/201611/CK2016111702000160.html</a></br>
+参考：<a href="http://www.cmrc.co.jp/cmrc/wp-content/uploads/2013/10/minamitakahasi.jpg">http://www.cmrc.co.jp/cmrc/wp-content/uploads/2013/10/minamitakahasi.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7818295601125</longitude>
+				<latitude>35.67282787813194</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002256670757126979</heading>
+				<tilt>27.61115757673768</tilt>
+				<range>140.87182123465</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kenzobutsu</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7814671756009,35.67297157419935,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>inshoku.kml</name>
+	<Style id="insyoku0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh4.googleusercontent.com/vI7W_w8t_HJe7qGZcwIOEdpshpcyBeATky1-24yPSAOXzUUwzSHMph3rCG_4cOLZ_DgwcZ6XUhAupQ0=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="insyoku1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh4.googleusercontent.com/vI7W_w8t_HJe7qGZcwIOEdpshpcyBeATky1-24yPSAOXzUUwzSHMph3rCG_4cOLZ_DgwcZ6XUhAupQ0=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="insyoku">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#insyoku0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#insyoku1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>inshoku</name>
+		<Placemark>
+			<name>THE DUBLINER'S 新宿店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">アイリッシュパブ</p>
+<CENTER>
+<p class="image"><img src="http://www.dubliners.jp/common/img/shop_shinjuku_photo01.jpg " width = "300" height = "228.762"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　サッポロライオンが運営している現存する都内最古のアイリッシュパブで1995年12月1日にオープン。
+</p>
+<p class="body">
+　国の異なる知らない人同士が、ビール片手に店内の各所で気軽に語り合える「グローバルな社交場」をコンセプトにしている。内装は、アイルランドの首都ダブリンに多く見られるヴィクトリアン様式のパブをイメージし、調度品や装飾品を現地から輸入した本格的なアイリッシュパブとなっている。
+</p>
+<p class= "body">参考：<a href="http://www.sapporobeer.jp/hanjo/gaishoku/topics4211/index.html">http://www.sapporobeer.jp/hanjo/gaishoku/topics4211/index.html</a>
+</br>参考：<a href="http://www.dubliners.jp/common/img/shop_shinjuku_photo01.jpg">http://www.dubliners.jp/common/img/shop_shinjuku_photo01.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7024857000705</longitude>
+				<latitude>35.69103489985948</latitude>
+				<altitude>0</altitude>
+				<heading>4.115955813281937e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000014083457</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7024857000705,35.69103489985948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>笹巻けぬきすし総本店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">寿司屋</p>
+<CENTER>
+<p class="image"><img src="https://igx.4sqi.net/img/general/width960/61538302_gy4qS7Ge86cdkea8rcFeTg3ir-OV7r-4PK9Ct0OXXic.jpg " width = "300" height = "224.921"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　元禄15年（1702年）、越後の新発田出身の松崎喜右衛門が人形町に出店。
+</p>
+<p class="body">
+　笹に殺菌作用があると習った初代が笹で包んだことで「笹巻」、また鯛の小骨を毛抜きを用いて抜いていたことが評判になり「けぬきすし」と呼ばれるようになった。現在でも毛抜きを用いて小骨を抜いているという。
+</p>
+<p class="body">参考：<a href="http://www.kanda-hojinkai.com/information/sinise/sinise09.html">http://www.kanda-hojinkai.com/information/sinise/sinise09.html</a>
+</br>参考：<a href="https://igx.4sqi.net/img/general/width960/61538302_gy4qS7Ge86cdkea8rcFeTg3ir-OV7r-4PK9Ct0OXXic.jpg">https://igx.4sqi.net/img/general/width960/61538302_gy4qS7Ge86cdkea8rcFeTg3ir-OV7r-4PK9Ct0OXXic.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7647888996793</longitude>
+				<latitude>35.69518069985408</latitude>
+				<altitude>0</altitude>
+				<heading>-1.871088513558172e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000010327341</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7647888996793,35.69518069985408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>玉ひで</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">親子丼</p>
+<CENTER>
+<p class="image"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/M/Meshi2_IB/20151026/20151026224306.jpg " width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　宝暦10年（1760年）、現在の人形町三丁目に軍鶏専門店として創業。
+</p>
+<p class="body">
+　明治20年頃、軍鶏鍋鳥鍋の〆に肉と割下を卵でとじてご飯と一緒に食べたお客さんがいたことから、明治24年、玉ひで五代目”秀吉”の奥さん"とく"の発案でより食べやすくするためにご飯の上に乗せて一品料理としたのが親子丼の始まり。
+</p>
+<p class="body">参考：<a href="http://www.tamahide.co.jp/gansooyakodon.html">http://www.tamahide.co.jp/gansooyakodon.html</a>
+</br>参考：<a href="https://cdn-ak.f.st-hatena.com/images/fotolife/M/Meshi2_IB/20151026/20151026224306.jpg">https://cdn-ak.f.st-hatena.com/images/fotolife/M/Meshi2_IB/20151026/20151026224306.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7829102996653</longitude>
+				<latitude>35.68497690021017</latitude>
+				<altitude>0</altitude>
+				<heading>-1.952574324497268e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000000393084</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7829102996653,35.68497690021017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>三定</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">天ぷら屋</p>
+<CENTER>
+<p class="image"><img src="http://tempura-sansada.co.jp/_src/sc1618/honkan-entrance.jpg " width = "300" height = "200.25"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　江戸時代、天保8年（1837年）に創業。
+</p>
+<p class="body">
+　初代の定吉（さだきち）が天保2年、同郷の先輩を頼りに三河（今の愛知）より上京し、後に人形町の自宅前に天ぷら屋「三河屋定吉（みかわやさだきち）」をつくったのが始め。
+</p>
+<p class="body">参考：<a href="http://www.tempura-sansada.co.jp/yurai.html">http://www.tempura-sansada.co.jp/yurai.html</a>
+</br>参考：<a href="http://tempura-sansada.co.jp/_src/sc1618/honkan-entrance.jpg">http://tempura-sansada.co.jp/_src/sc1618/honkan-entrance.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7967248989428</longitude>
+				<latitude>35.7110464997578</latitude>
+				<altitude>0</altitude>
+				<heading>-6.170594137507368e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000020421099</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7967248989428,35.7110464997578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>吉野家　築地店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">吉野家</p>
+<CENTER>
+<p class="image"><img src="http://blog-imgs-43.fc2.com/k/u/i/kuidoo/mukasiyosinoya.jpg " width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1959年に開店した築地1号店は吉野家の心髄（しんずい）といっても過言ではない。
+</p>
+<p class="body">
+　明治32年（1899年）、東京の日本橋にあった魚河岸に、牛丼店を開業したのが吉野家のはじまりである。当時の日本は明治27年（1895年）の日清戦争に勝利したことで多額の賠償金や台湾割譲などの領土の拡大によって好景気が訪れる。そんな時代に産声を上げた吉野家の牛丼は今も昔も働く人の胃袋を満たしている。残念ながら日本橋の魚河岸に創られた店舗は無い。
+</p>
+<p class="body">
+　この築地一号店では精算の際に他店が行っているような伝票をチェックする方法ではなく、牛丼の器を見て値段を確認する昔ながらの方法を採用している。他店とは違う、吉野家のルーツだからこそ昔と同じ精算方法を守っている、そんな伝統にも触れる事が出来るのが1号店の魅力の一つだ。
+</p>
+
+<p class="body">参考：
+<a href = "http://gotrip.jp/2015/09/22277/">
+http://gotrip.jp/2015/09/22277/
+</a>
+</br>参考：<a href="http://blog-imgs-43.fc2.com/k/u/i/kuidoo/mukasiyosinoya.jpg">http://blog-imgs-43.fc2.com/k/u/i/kuidoo/mukasiyosinoya.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.770430338341</longitude>
+				<latitude>35.66402903929888</latitude>
+				<altitude>0</altitude>
+				<heading>10.39796465754851</heading>
+				<tilt>49.30223084387099</tilt>
+				<range>3.067129821631887</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7704239329959,35.66402893084642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>みますや</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">居酒屋</p>
+<CENTER>
+<p class="image"><img src="http://livedoor.blogimg.jp/tomato1111/imgs/2/a/2a6679a1.jpg " width = "300" height = "199.714"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1905年に創業された東京最古の居酒屋。
+</p>
+<p class="body">神田司町で歴史と風情を感じさせる佇まいの「みますや」歴史が長いので、店舗で使われている木材もエイジングが進み良い焦げ茶に。お会計のおっちゃんが名物！
+</p>
+
+<p class="body">参考：
+<a href = "http://netafull.net/kanda-gourmet/053648.html">
+http://netafull.net/kanda-gourmet/053648.html
+</a>
+</br>参考：<a href="http://livedoor.blogimg.jp/tomato1111/imgs/2/a/2a6679a1.jpg">http://livedoor.blogimg.jp/tomato1111/imgs/2/a/2a6679a1.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.766891467042</longitude>
+				<latitude>35.69408139645892</latitude>
+				<altitude>0</altitude>
+				<heading>5.080001282671973</heading>
+				<tilt>53.19196037718867</tilt>
+				<range>27.97413607959717</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.766849119066,35.69404233169015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>カフェーパウリスタ　銀座本店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">カフェ</p>
+<CENTER>
+<p class="image"><img src="https://cdn.locari.jp/web/images/p/post_element/picture/142738/442be59dd76fda3e87625113f51e3015.jpg " width = "300" height = "245.857"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1910年（明治43年）、銀座に開業。各地に店舗を広げ、親しまれたが、1923年（大正12年）関東大震災の被災後に喫茶店経営から撤退。1970年に復活した銀座店は、昔のカップ、スプーンを復元するなどで「日本初のカフェ」を自認している。「パウリスタ」は「サンパウロっ子」の意味。</p>
+<p class="body">
+　諸説ありますが、「銀ブラ」は”銀座をブラブラ歩くこと”ではなく、“慶応のキャンパスから、銀座のカフェーパウリスタまで歩き、ブラジルコーヒーを飲みながら会話をすること”と、当時の慶応大生の間で流行っていた言葉なんだそう。お店には銀ブラ証明書まで！</p>
+<p class="body">参考：
+<a href = "https://icotto.jp/presses/5348">
+https://icotto.jp/presses/5348
+</a>
+</br>参考：<a href="https://cdn.locari.jp/web/images/p/post_element/picture/142738/442be59dd76fda3e87625113f51e3015.jpg">https://cdn.locari.jp/web/images/p/post_element/picture/142738/442be59dd76fda3e87625113f51e3015.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7621966416997</longitude>
+				<latitude>35.66815117535958</latitude>
+				<altitude>0</altitude>
+				<heading>6.877711542287457e-05</heading>
+				<tilt>29.26369568555768</tilt>
+				<range>59.71523087049743</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7620445294147,35.6681099916081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新川大勝軒飯店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ラーメン屋</p>
+<CENTER>
+<p class="image"><img src="https://tabelog.ssl.k-img.com/restaurant/images/Rvw/39957/640x640_rect_39957233.jpg " width = "225" height = "300"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+レバー丼等が有名ですが、醤油が勝ち気味の昔ながらの東京ラーメンがメイン。
+</p>
+<p class="body">
+　東京メトロ日比谷線・東西線 茅場町駅のA3出口から出て、永代通りを東へ歩きます。霊岩橋（れいがんばし）を渡り、二つ目の路地を右に入ると「新川大勝軒飯店（しんかわたいしょうけんはんてん）」があります。
+<p class="body">参考：
+<a href = "http://sugoroku.tokyo/?p=6225">
+http://sugoroku.tokyo/?p=6225
+</a>
+</br>参考：<a href="https://tabelog.ssl.k-img.com/restaurant/images/Rvw/39957/640x640_rect_39957233.jpg">https://tabelog.ssl.k-img.com/restaurant/images/Rvw/39957/640x640_rect_39957233.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.78224329038</longitude>
+				<latitude>35.67850609091748</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001273283470621925</heading>
+				<tilt>24.75343291813262</tilt>
+				<range>248.9882765882956</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7819936749585,35.67857670048034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>名曲喫茶ライオン</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">名曲喫茶</p>
+<CENTER>
+<p class="image"><img src="https://assets.kurashicom.com/blog/uploads/2016/05/kissaten_lion_DF2_0058.jpg " width = "300" height = "300"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+昭和元年、初代店長　山寺弥之助（当時24歳）が「ライオン」を設立。外装・内装全てのデザインを自ら手がける。
+</p>
+<p class="body">
+静謐かつノスタルジックな空間には、高さ3ｍ超の特注スピーカーが鎮座。ここでクラシックを聴くために、毎日通ってくる客も少なくない。</p>
+<p class="body">ここでは、3時と7時に約1時間の定時コンサートの時間設けられている。
+それ以外の時間はリクエスト曲の受け付けている。
+</p>
+<p class="body">参考：
+<a href = "http://lion.main.jp/info/infomation.htm">
+http://lion.main.jp/info/infomation.htm</a>
+</br>参考：<a href="https://assets.kurashicom.com/blog/uploads/2016/05/kissaten_lion_DF2_0058.jpg">https://assets.kurashicom.com/blog/uploads/2016/05/kissaten_lion_DF2_0058.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.6967796574257</longitude>
+				<latitude>35.65911998179309</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002038633717285679</heading>
+				<tilt>25.41000752461528</tilt>
+				<range>198.5996190004333</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6963621006437,35.65925245539604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>おにぎり 浅草 宿六</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">おにぎり屋さん</p>
+<CENTER>
+<p class="image"><img src="https://icotto.k-img.com/system/press_images/000/236/744/734d1326eb4bd5cdb451eeb9025b6f1867e7468f.jpeg?1500604278 " width = "300" height = "225.428"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　昭和29年創業、今年で創業63年になる東京都内で一番古いおにぎりだけを扱うおにぎり専門店。
+</p>
+<p class="body">
+　お店の雰囲気や中の内装が高級寿司屋のような佇まいで、カウンターの前には10種類以上のネタが並べられていて、木札にもネタが書かれているこだわりよう。実際におにぎりは直接具を見て選ぶことができる。厳選された素材だけを使用して、米は単一原料のコシヒカリ、海苔は江戸前、塩は天然塩（時期によってを変わる）と言った一つ一つの素材にこだわりを持ったおにぎりを提供している。
+</p>
+<p class= "body">参考：<a href="https://retrip.jp/articles/78018/">https://retrip.jp/articles/78018/</a>
+</br>参考：<a href="https://icotto.k-img.com/system/press_images/000/236/744/734d1326eb4bd5cdb451eeb9025b6f1867e7468f.jpeg?1500604278">https://icotto.k-img.com/system/press_images/000/236/744/734d1326eb4bd5cdb451eeb9025b6f1867e7468f.jpeg?1500604278</a></p>]]></description>
+			<LookAt>
+				<longitude>139.794751</longitude>
+				<latitude>35.716885</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000364</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.794751,35.716885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ロージナ茶房</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">地下商店街</p>
+<CENTER>
+<p class="image"><img src="http://pazulog.com/wp/wp-content/uploads/2014/02/rojinasabou-7.jpg " width = "300" height = "225.230"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1955年に開設。
+</p>
+<p class="body">
+　東京・銀座三原橋地下街の最後のお店「三原カレーコーナー」が2014年4月27に閉店したことにより、最古の地下商店街は東京・浅草地下商店街となった。商店街の規模としてはとても小さいもので、端から端まで見渡せてしまうほどだ。開設から60年を経ており、現在営業しているお店の数もそう多くはない。昭和のノスタルジーを感じさせる佇まいは切ない。まるで時代に取り残されたような気分になる。それと同時に、懐かしさに癒される思いもするのである。
+
+</p>
+<p class= "body">参考：<a href="http://rocketnews24.com/2014/06/01/447109/">http://rocketnews24.com/2014/06/01/447109/</a>
+</br>参考：<a href="http://pazulog.com/wp/wp-content/uploads/2014/02/rojinasabou-7.jpg">http://pazulog.com/wp/wp-content/uploads/2014/02/rojinasabou-7.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.4461504</longitude>
+				<latitude>35.6978885</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001911</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4461504,35.6978885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>松屋江古田店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">松屋</p>
+<CENTER>
+<p class="image"><img src="https://www.matsuyafoods.co.jp/recruit/new_2017/philosophy/img/roots-h2.jpg " width = "300" height = "149.214"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　昭和43年(1968)、江古田に1号店をオープン。
+</p>
+<p class="body">
+　松屋は土地柄を考慮して、学生や独身サラリーマン層向けに定食とカレーが必要と考え、「牛めし」「定食」「カレー」の三本柱でメニューを構成することになり、キッチンに鉄板を入れて客の前で調理することにこだわった。できたての焼き肉やハンバーグの定食をメニューに入れて人気を博し、全国展開の足がかりを作った。そうしたメニュー構成はいまでも健在。江古田の1号店は現在の松屋の統一された店舗設計に変わってはいるが、同じ場所で営業を続けている。
+
+</p>
+<p class= "body">参考：<a href="http://news.mynavi.jp/articles/2013/12/23/gyudon/">http://news.mynavi.jp/articles/2013/12/23/gyudon/</a>
+</br>参考：<a href="https://www.matsuyafoods.co.jp/recruit/new_2017/philosophy/img/roots-h2.jpg">https://www.matsuyafoods.co.jp/recruit/new_2017/philosophy/img/roots-h2.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6716188</longitude>
+				<latitude>35.7385666</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927034e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000934</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6716188,35.73856660000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>モスバーガー成増店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">モスバーガー</p>
+<CENTER>
+<p class="image"><img src="https://tabelog.com/restaurant/images/Rvw/41775/41775672.jpg " width = "300" height = "300"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1972年に開店したモスバーガー成増店（東京）。
+</p>
+<p class="body">
+　由来は山のように気高く堂々と、海のように深く広い心で、太陽のように燃え尽きることのない情熱を持ってと　マウンテンのM、オーシャンのO、サンのSの頭文字をとって創業者が願ってつけた名前です。テリヤキバーガーもMOSが発祥です。
+
+</p>
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a>
+</br>参考：<a href="https://tabelog.com/restaurant/images/Rvw/41775/41775672.jpg">https://tabelog.com/restaurant/images/Rvw/41775/41775672.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6320449016398</longitude>
+				<latitude>35.77755319848683</latitude>
+				<altitude>0</altitude>
+				<heading>1.863805043337621e-12</heading>
+				<tilt>0</tilt>
+				<range>1000.183316238762</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6320449016398,35.77755319848683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>バンコク</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">タイ料理店</p>
+<CENTER>
+<p class="image"><img src="https://tabelog.ssl.k-img.com/restaurant/images/Rvw/18328/18328587.jpg " width = "223.875" height = "300"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　開店したのが1973年と、創業42年を誇り、日本では2番目に古いタイ料理店で、現存するお店としては最古という老舗。
+</p>
+<p class="body">
+　本格的で何を食べても美味しい。一皿が多いので大人数にもおすすめ。
+
+</p>
+<p class= "body">参考：<a href="http://www.ttcbn.net/no_second_life/archives/50786">http://www.ttcbn.net/no_second_life/archives/50786</a>
+</br>参考：<a href="https://tabelog.ssl.k-img.com/restaurant/images/Rvw/18328/18328587.jpg">https://tabelog.ssl.k-img.com/restaurant/images/Rvw/18328/18328587.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7347089</longitude>
+				<latitude>35.66332810000001</latitude>
+				<altitude>0</altitude>
+				<heading>-6.361109362927034e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000807</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7347089,35.66332810000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ドミノ・ピザ恵比寿店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ドミノ・ピザ</p>
+<CENTER>
+<p class="image"><img src="https://lh6.googleusercontent.com/-n24lsG3eZFY/VySLmMXHSyI/AAAAAAABODI/eY7acSIMGcQ5ixCGziB2O469fp5K6pwFgCJkC/w426-h320-k-no/ " width = "300" height = "225.352"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1985年に開店したドミノ・ピザ恵比寿店。
+</p>
+
+<p class= "body">参考：<a href="http://style.nikkei.com/article/DGXNASFK1303L_U1A710C1000000?channel=DF130120166138&style=1">http://style.nikkei.com/article/DGXNASFK1303L_U1A710C1000000?channel=DF130120166138&style=1</a>
+</br>参考：<a href="https://lh6.googleusercontent.com/-n24lsG3eZFY/VySLmMXHSyI/AAAAAAABODI/eY7acSIMGcQ5ixCGziB2O469fp5K6pwFgCJkC/w426-h320-k-no/">https://lh6.googleusercontent.com/-n24lsG3eZFY/VySLmMXHSyI/AAAAAAABODI/eY7acSIMGcQ5ixCGziB2O469fp5K6pwFgCJkC/w426-h320-k-no/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.712005</longitude>
+				<latitude>35.64492899999999</latitude>
+				<altitude>0</altitude>
+				<heading>1.272221872585407e-14</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.712005,35.644929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>てんや八重洲店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">てんや</p>
+<CENTER>
+<p class="image"><img src="https://media-cdn.tripadvisor.com/media/photo-s/09/62/cb/8e/caption.jpg " width = "300" height = "225.272"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1989年9月東京駅八重洲地下街に "てんや" 1号店｢八重洲店｣を開店。
+</p>
+
+<p class= "body">参考：<a href="http://www.tenya.co.jp/company/history/">http://www.tenya.co.jp/company/history/</a>
+</br>参考：<a href="https://media-cdn.tripadvisor.com/media/photo-s/09/62/cb/8e/caption.jpg">https://media-cdn.tripadvisor.com/media/photo-s/09/62/cb/8e/caption.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7679725179712</longitude>
+				<latitude>35.67908806573234</latitude>
+				<altitude>0</altitude>
+				<heading>8.046485288634549e-11</heading>
+				<tilt>0</tilt>
+				<range>1001.906153690905</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7679725179712,35.67908806573234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>フレッシュネスバーガー富ヶ谷店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">フレッシュネスバーガー</p>
+<CENTER>
+<p class="image"><img src="http://hamburger.jp/photo/special488_26.jpg " width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1992年に渋谷区富ヶ谷にできた「フレッシュネスバーガー」日本の１号店。
+</p>
+
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a>
+</br>参考：<a href="http://hamburger.jp/photo/special488_26.jpg">http://hamburger.jp/photo/special488_26.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6827719</longitude>
+				<latitude>35.6631654</latitude>
+				<altitude>0</altitude>
+				<heading>9.54166404439055e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000702</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6827719,35.6631654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>一風堂恵比寿店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">一風堂</p>
+<CENTER>
+<p class="image"><img src="https://japanbook.net/uploads/images/1b0f0450.jpg " width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1995年に東京都渋谷区広尾に東京1号店となる恵比寿店をオープン。
+</p>
+
+<p class= "body">参考：<a href="http://www.ippudo.com/historical-fact/course.html">http://www.ippudo.com/historical-fact/course.html</a>
+</br>参考：<a href="https://japanbook.net/uploads/images/1b0f0450.jpg">https://japanbook.net/uploads/images/1b0f0450.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7131972999999</longitude>
+				<latitude>35.64866359999995</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000666</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7131973,35.64866359999994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>スターバックスコーヒー銀座松屋通り店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">スターバックス</p>
+<CENTER>
+<p class="image"><img src="http://designlink-japan.com/01-Starbucks-1-130911-Reduced.jpg " width = "300" height = "233.009"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1996年にスターバックスコーヒー銀座松屋通り店（東京）が開店。
+</p>
+
+<p class= "body">参考：<a href="https://matome.naver.jp/odai/2134398076336118501">https://matome.naver.jp/odai/2134398076336118501</a>
+</br>参考：<a href="http://designlink-japan.com/01-Starbucks-1-130911-Reduced.jpg">http://designlink-japan.com/01-Starbucks-1-130911-Reduced.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7666248083088</longitude>
+				<latitude>35.67170825857256</latitude>
+				<altitude>0</altitude>
+				<heading>-1.959539739249673e-10</heading>
+				<tilt>0</tilt>
+				<range>1003.649794335246</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7666248083088,35.67170825857256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京チカラめし池袋西口店</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">東京チカラめし</p>
+<CENTER>
+<p class="image"><img src="http://www.tobu.co.jp/ike2/back/vol23/west/images/no2/shop07.jpg " width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　2011年6月に池袋西口に東京チカラめしが誕生した。
+</p>
+
+<p class= "body">参考：<a href="http://news.mynavi.jp/articles/2013/12/23/gyudon/">http://news.mynavi.jp/articles/2013/12/23/gyudon/</a>
+</br>参考：<a href="http://www.tobu.co.jp/ike2/back/vol23/west/images/no2/shop07.jpg">http://www.tobu.co.jp/ike2/back/vol23/west/images/no2/shop07.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7101003</longitude>
+				<latitude>35.73206089999999</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000393</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#insyoku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7101003,35.73206089999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

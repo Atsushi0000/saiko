@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>public.kml</name>
+    <Style id="public0">
+        <IconStyle>
+            <scale>1.1</scale>
+            <Icon>
+                <href>hhttps://lh5.googleusercontent.com/Rw9-sL2UM9ibBNeukywkcAikvshS1wj-GKEv0mWE6V9GlO9r_YhKb_Xs97zrxJWRbqsNqiX4cVEl8ic=w2880-h1564</href>
+            </Icon>
+            <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+    </Style>
+    <Style id="public1">
+        <IconStyle>
+            <scale>1.1</scale>
+            <Icon>
+                <href>https://lh5.googleusercontent.com/Rw9-sL2UM9ibBNeukywkcAikvshS1wj-GKEv0mWE6V9GlO9r_YhKb_Xs97zrxJWRbqsNqiX4cVEl8ic=w2880-h1564</href>
+            </Icon>
+            <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+    </Style>
+    <StyleMap id="public">
+        <Pair>
+            <key>normal</key>
+            <styleUrl>#public0</styleUrl>
+        </Pair>
+        <Pair>
+            <key>highlight</key>
+            <styleUrl>#public1</styleUrl>
+        </Pair>
+    </StyleMap>
+	<Folder>
+		<name>public</name>
+		<Placemark>
+			<name>飛鳥山公園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">公園</p>
+<CENTER>
+<p class="image"><img src="http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/103-d31b2.jpg?c=a0" width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治6年（1873年）の太政官布達によって上野、浅草、深川、芝とともに日本で初めて公園に指定。
+</p>
+<p class="body">
+　徳川吉宗が享保の改革の一環として整備・造成を行ったとして知られる。
+</p>
+<p class="body">参考：<a href="https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%B3%A5%E5%B1%B1%E5%85%AC%E5%9C%92">https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%B3%A5%E5%B1%B1%E5%85%AC%E5%9C%92</a></p>
+<p class="body">参考：<a href="http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/103-d31b2.jpg?c=a0">http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/103-d31b2.jpg?c=a0</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7388627</longitude>
+				<latitude>35.75046559999999</latitude>
+				<altitude>0</altitude>
+				<heading>2.544443745170813e-014</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000853</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7388638888889,35.75046666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>月島警察署　西仲通地域安全センター</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">交番</p>
+<CENTER>
+<p class="image"><img src="http://blog-imgs-29.fc2.com/t/o/k/tokyolionmaru/R0017742_convert_20100502083917.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+明治41年 
+京橋警察署の分署として創設（現　月島1丁目9番2号） </p>
+<p class="body">
+1周囲を海、川で囲まれた島状をなし、隣接地域とは８つの橋で接している管内は、　 
+①　月島地域発祥の地ともいわれ、高層マンションの先駆けとなった「佃地区」
+②　もんじゃ街を中心に木造住宅が下町の風情を残す「月島地区」
+③　再開発事業が進展し、通勤・通学などで多くの人が行き交う「勝どき地区」
+④　新鮮な魚介類など物流の要所となる「豊海地区」
+⑤　臨海部再開発計画により人口急上昇中「晴海地区」
+といった５つの地区からなっています。 </p>
+<p class="body">参考：
+<a href = "http://www.keishicho.metro.tokyo.jp/1/tsukishima/syoukai/syoukai.htm">
+http://www.keishicho.metro.tokyo.jp/1/tsukishima/syoukai/syoukai.htm</a>
+</p>
+<p class="body">参考：
+<a href = "http://blog-imgs-29.fc2.com/t/o/k/tokyolionmaru/R0017742_convert_20100502083917.jpg">
+http://blog-imgs-29.fc2.com/t/o/k/tokyolionmaru/R0017742_convert_20100502083917.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7815995880259</longitude>
+				<latitude>35.66346706064959</latitude>
+				<altitude>0</altitude>
+				<heading>0.000135064300112675</heading>
+				<tilt>27.80428113664118</tilt>
+				<range>86.66107835513913</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7813585077498,35.66359846844882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京メトロ上野駅</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">地下鉄</p>
+<CENTER>
+<p class="image"><img src="http://4.bp.blogspot.com/-KMimSoLjsfY/VoFG2L5OtoI/AAAAAAAAHSU/dTIvACEBWkI/s1600/1124485780_0087.jpg" width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+日本で最初に地下鉄が開通したのが、1927（昭和2）年、浅草～上野間2.2kmでした。
+</p>
+<p class="body">
+東洋で初めての地下鉄が東京に誕生したことは、日本の近代化の一つの証として大いに歓迎されました。
+開業時は、「東京地下鉄道株式会社」が建設にあたりました。
+その開業に最も貢献したのが、のちに「地下鉄の父」と言われる早川徳次（のりつぐ）でした。
+東京地下鉄道株式会社は、その後も路線を順次延ばし、
+1934（昭和9）年に銀座～新橋間が開業したことにより、浅草～新橋間8.0kmを完成させます。
+</p>
+<p class="body">
+一方、地下鉄の将来性に気づいた他の鉄道事業者は、相次いで新路線の免許を申請。
+その中には、のちの東京急行電鉄を築き「電鉄王」と呼ばれる五島慶太もいました。
+五島は「東京高速鉄道株式会社」の常務取締役として建設にあたり、
+</p>
+<p class="body">
+1939（昭和14）年に新橋～渋谷間6.3kmを開通させました。
+同年9月、紆余曲折の末、東京地下鉄道株式会社と東京高速鉄道株式会社の両社は浅草～渋谷間の相互直通運転を開始。
+現在の銀座線の路線が形成されました。</p>
+
+<p class="body">参考：
+<a href = "https://docs.google.com/spreadsheets/d/1XEqkiLxMKCD4t3kR8_y8THCD1PlJgGiLqRIUJPF5QZU/edit#gid=0">
+https://docs.google.com/spreadsheets/d/1XEqkiLxMKCD4t3kR8_y8THCD1PlJgGiLqRIUJPF5QZU/edit#gid=0</a>
+</p>
+<p class="body">参考：
+<a href = "http://4.bp.blogspot.com/-KMimSoLjsfY/VoFG2L5OtoI/AAAAAAAAHSU/dTIvACEBWkI/s1600/1124485780_0087.jpg">
+http://4.bp.blogspot.com/-KMimSoLjsfY/VoFG2L5OtoI/AAAAAAAAHSU/dTIvACEBWkI/s1600/1124485780_0087.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7760850924865</longitude>
+				<latitude>35.71259738864642</latitude>
+				<altitude>0</altitude>
+				<heading>-6.762098809309113e-005</heading>
+				<tilt>15.57301370810397</tilt>
+				<range>426.2670492576648</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7761993718376,35.71230915430797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>原宿駅</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">木造駅舎</p>
+<CENTER>
+<p class="image"><img src="http://blog-imgs-91.fc2.com/h/k/m/hkma77y/IMG_6505.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+現在の表参道口に建つ洋風の駅舎は、1924年6月に竣工した2代目になる。東京都内のJR路線では最古の木造駅舎となっている。</p>
+<p class="body">
+建物は切妻造で、平入り（軒が降りる側の面）のほぼ中央に切妻を造作し、ファサード（建物のアイコン的な立面）としている。ファサードや外壁は、白壁に木骨を表に出して意匠とした「ハーフティンバー」と呼ばれる様式で、屋根上には小さな尖塔が載る。この尖塔は木製のルーバー8面で構成された塔に、銅板の屋根を葺いたもの。ファサードに掲げられた時計まわりの装飾や、時計上部の木彫の意匠と相まって、ヨーロッパの田舎街に建っていそうな、瀟洒な印象を投げかけている。
+</p>
+<p class="body">設計者は鉄道省工務局建築課の長谷川馨。幻の名駅舎と呼ばれる2代目横浜駅舎（1916年竣工）の設計にも携わった技師である。この2代目横浜駅舎の屋根にもシンボリックな尖塔が建てられていた。</p>
+</p>
+<p class="body">参考：
+<a href = "http://toyokeizai.net/articles/-/129847?page=2">
+http://toyokeizai.net/articles/-/129847?page=2</a>
+</p>
+<p class="body">参考：
+<a href = ""http://blog-imgs-91.fc2.com/h/k/m/hkma77y/IMG_6505.jpg">
+"http://blog-imgs-91.fc2.com/h/k/m/hkma77y/IMG_6505.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7029303601278</longitude>
+				<latitude>35.67033506830593</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002372460052658127</heading>
+				<tilt>29.99966668829295</tilt>
+				<range>93.91820535231416</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7027020069335,35.67021790452509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>深川公園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">公園</p>
+<CENTER>
+<p class="image"><img src="http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/E6B7B1E5B79D02-1148e.jpg?c=a0" width = " " height = "300 "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治6年（1873年）の太政官布達によって上野、浅草、芝、飛鳥山とともに日本で初めて公園に指定。
+</p>
+<p class="body">
+　公園は元の永代寺境内に設けられた。富岡八幡宮の別当であった永代寺だが、明治時代になり、神仏分離令により廃寺となった。
+</p>
+<p class="body">
+参考：<a href="https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E5%85%AC%E5%9C%92">https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E5%85%AC%E5%9C%92</a></p>
+<p class="body">参考：<a href="http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/E6B7B1E5B79D02-1148e.jpg?c=a0">http://waradutoya.c.blog.so-net.ne.jp/_images/blog/_898/waradutoya/E6B7B1E5B79D02-1148e.jpg?c=a0</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7974634</longitude>
+				<latitude>35.67285989999999</latitude>
+				<altitude>0</altitude>
+				<heading>-3.180554681463516e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7974638888889,35.67286111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>芝公園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">公園</p>
+<CENTER>
+<p class="image"><img src="http://konjaku-photo.com/m/pic/600/1457.png" width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治6年（1873年）の太政官布達によって上野、浅草、深川、飛鳥山とともに日本で初めて公園に指定。
+</p>
+<p class="body">
+　当初は増上寺の境内を含む広い公園だったが、戦後の政教分離によって境内の部分が除かれ、環状の公園となった。
+</p>
+<p class="body">
+　園内にはクスノキ、ケヤキ、イチョウなどの大木がある。また現在、スポーツ施設として野球場とテニスコートがあるが、これらは明治35年に備えられたもので、東京の公園における運動施設の始まりという歴史も持っている。
+</p>
+<p class="body">参考：<a href="https://www.tokyo-park.or.jp/park/format/about038.html">https://www.tokyo-park.or.jp/park/format/about038.html</a></p>
+<p class="body">参考：<a href="http://konjaku-photo.com/m/pic/600/1457.png">http://konjaku-photo.com/m/pic/600/1457.png</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7521575</longitude>
+				<latitude>35.65750150000001</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-014</heading>
+				<tilt>0</tilt>
+				<range>1507.942268333112</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7521575,35.65750150000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>品川駅</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">駅</p>
+<CENTER>
+<p class="image"><img src="http://img.enfactory.jp/profile/pf/img/library/l/1324442347.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治5年（1872年）10月14日、日本初の鉄道が新橋駅〜桜木町駅間を走った際の駅の一つ。その前の品川駅〜桜木町駅間の仮開業があった同年5月7日を考えると日本で最古の駅。
+</p>
+<p class="body">
+　その後、東京の膨張と鉄道の隆盛につれ駅は拡大し続けた。
+</p>
+<p class="body">参考：<a href="http://koken-archi.xsrv.jp/tokusyu/shinagawa/deta/shi-05fm.htm">http://koken-archi.xsrv.jp/tokusyu/shinagawa/deta/shi-05fm.htm</a></p>
+<p class="body">参考：<a href="http://img.enfactory.jp/profile/pf/img/library/l/1324442347.jpg">http://img.enfactory.jp/profile/pf/img/library/l/1324442347.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7387596997561</longitude>
+				<latitude>35.62847129980474</latitude>
+				<altitude>0</altitude>
+				<heading>-1.420690165116123e-010</heading>
+				<tilt>0</tilt>
+				<range>999.9120060939715</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7387596997561,35.62847129980474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>恩賜上野動物園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">動物園</p>
+<CENTER>
+<p class="image"><img src="http://www.jprime.jp/mwimgs/8/d/-/img_8d35b4f5892ff53a8019b34f42f496f477142.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治15年（1882年）に農商務省所管の博物館付属施設として開園した。1886年には宮内省所管になり、1924年に皇太子殿下（昭和天皇）のご成婚を記念して、東京市に下賜された。
+</p>
+<p class="body">
+　第二次大戦中には、猛獣処分が行われた。一方で日本を代表する動物園として機能しており、1972年には日中国交回復を記念しジャイアントパンダが来園することもあった。
+</p>
+<p class="body">参考：<a href="http://www.tokyo-zoo.net/zoo/ueno/history.html">http://www.tokyo-zoo.net/zoo/ueno/history.html</a></p>
+<p class="body">参考：<a href="http://www.jprime.jp/mwimgs/8/d/-/img_8d35b4f5892ff53a8019b34f42f496f477142.jpg">http://www.jprime.jp/mwimgs/8/d/-/img_8d35b4f5892ff53a8019b34f42f496f477142.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7713176998984</longitude>
+				<latitude>35.71645349996049</latitude>
+				<altitude>0</altitude>
+				<heading>-5.928871981716141e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000006421268</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#public</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7713176998984,35.71645349996049,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

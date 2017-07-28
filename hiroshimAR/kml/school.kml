@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>school.kml</name>
+	<Style id="s_ylw-pushpin_hl3">
+        <Style id="school0">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://lh4.googleusercontent.com/oeZwFZ_gBEgwYXBmUKcNShB9cYZfGngClRYf-1lun6GTaeIf-FrXRjyIrNAsMlYqS2NdY65qbhmhePA=w2880-h1564</href>
+                </Icon>
+                <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+            </IconStyle>
+        </Style>
+        <Style id="school1">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://lh4.googleusercontent.com/oeZwFZ_gBEgwYXBmUKcNShB9cYZfGngClRYf-1lun6GTaeIf-FrXRjyIrNAsMlYqS2NdY65qbhmhePA=w2880-h1564</href>
+                </Icon>
+                <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+            </IconStyle>
+        </Style>
+        <StyleMap id="school">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#school0</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#school1</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Folder>
+		<name>school</name>
+		<open>1</open>
+		<Placemark>
+			<name>早稲田大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（設置）</p>
+<CENTER>
+<p class="image"><img src=" http://www.wasedaweekly.jp/upload/965/写真②　学苑の様子（昭和28年頃）.jpg" width = "300" height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+設立1920年の6大学のうちの1つ
+早稲田大学の前身は、1882（明治15）年10月21日に創設された「東京専門学校」です。
+創立者・大隈重信の別邸が東京府南豊島郡早稲田村にあり、また校舎が同郡戸塚村にあったことから「早稲田学校」「戸塚学校」とも呼ばれていましたが、最終的には「東京専門学校」と名付けられました。
+1892年頃には、専門学校の別名として「早稲田学校」と呼ばれるようになりました。専門学校から大学への昇格を機に、以後1902年9月2日付で「早稲田大学」と改称しました。</p>
+<p class="body">
+「大学令」により、明治大学、法政大学、中央大学、日本大学、國學院大學、同志社大学の6大学が初めて私立大学の設置が許可ました。よって、創立はもっと前ですが、設立は最古のもので1920年のこれらにあたります。
+</p>
+<p class="body">参考：
+<a href = "https://www.waseda.jp/top/about/work/history">
+https://www.waseda.jp/top/about/work/history
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://www.wasedaweekly.jp/upload/965/写真②　学苑の様子（昭和28年頃）.jpgy">
+http://www.wasedaweekly.jp/upload/965/写真②　学苑の様子（昭和28年頃）.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7200442239192</longitude>
+				<latitude>35.70851456043972</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001838522634508288</heading>
+				<tilt>28.33050711590341</tilt>
+				<range>158.9296843514043</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.719650276366,35.70871146542773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>明治大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://blogimg.goo.ne.jp/user_image/15/97/2fb65797a4b0f83a6c601e13b373699c.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+設立1920年の6大学のうちの1つ
+明治法律学校が大学令による大学（「明治大学」）となったのは1920（大正9）年4月1日のことである。しかし、そこにたどりつくまでには並々ならぬ苦闘と努力があった。学位「明法学士」の発案と授与、専門学校令による「明治大学」認可、法・商・政・文の4学部体制、駿河台移転、大学昇格のための募金運動等々はその代表的な事例である。とにもかくにも教職員・学生・校友らの奮闘努力により、総合大学としての明治大学が成立したのである。
+</p>
+<p class="body">明治法律学校、のちの明治大学は岸本辰雄･宮城浩蔵・矢代操によって創立された。岸本は鳥取藩、宮城は天童藩、矢代は鯖江藩といったように3人とも地方、それもかなり江戸から隔てた藩内で、しかも禄高が低い士族の家に、嘉永年間に生まれ、育った。
+やがて、彼らは幕末維新の動乱と変革の中、明治政府の命をうけた藩の選抜生（貢進生）として上京した。そして彼らが出会ったところは明法寮（のちに司法省法学校）であった。同校は司法省が設立したものであり、司法官僚を速成することが目的であった。この学校で「お雇い外国人」教師のボワソナードらからフランス法学を学んだ彼らは、それぞれの道を歩んだ。
+ </p>
+<p class="body">
+「大学令」により、明治大学、法政大学、中央大学、日本大学、國學院大學、同志社大学の6大学が初めて私立大学の設置が許可ました。よって、創立はもっと前ですが、設立は最古のもので1920年のこれらにあたります。
+</p>
+<p class="body">参考：
+<a href = "https://www.meiji.ac.jp/koho/information/history/index.html">
+https://www.meiji.ac.jp/koho/information/history/index.html
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://blogimg.goo.ne.jp/user_image/15/97/2fb65797a4b0f83a6c601e13b373699c.jpg">
+http://blogimg.goo.ne.jp/user_image/15/97/2fb65797a4b0f83a6c601e13b373699c.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7625128824247</longitude>
+				<latitude>35.69736289456124</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006007504092651935</heading>
+				<tilt>23.58257021342937</tilt>
+				<range>228.3749363965267</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7615460960149,35.69721818189451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>法政大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（設置）</p>
+<CENTER>
+<p class="image"><img src=" https://wiki.chakuriki.net/index.php/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:HOSEI_Ichigaya_Repair.jpg" width = " 300" height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+設立1920年の6大学のうちの1つ
+1918年（大正7年）に大学令が発布され私立大学の設置が認可。
+これを受けて、1920年（大正9年）には財団法人法政大学が発足します。今日の名称と形を持った法政大学の誕生です。
+当初設置されたのは法学部と経済学部であり、これに予科と専門部が加わる構成でした。</p>
+<p class="body">1921年（大正10年）には麹町区富士見町4丁目（現在地）に校舎を新築して移転。
+1922年（大正11年）法学部に文学科と哲学科が加わった法文学部が誕生します。
+この間に、教員組織が出講講師体制から専任教員体制へと移行、授業形態が法律学校時代からの夜間中心から昼間中心へと変わっていき、法政大学は総合大学としての体裁を整えていきました。
+現在では15学部、通信教育部、大学院13研究科・1インスティテュート、専門職大学院2研究科を擁する総合大学となっています。
+ </p>
+<p class="body">
+「大学令」により、明治大学、法政大学、中央大学、日本大学、國學院大學、同志社大学の6大学が初めて私立大学の設置が許可ました。よって、創立はもっと前ですが、設立は最古のもので1920年のこれらにあたります。
+</p>
+<p class="body">参考：
+<a href = "http://www.hosei.ac.jp/gaiyo/daigaku_shi/rekishi.html">
+http://www.hosei.ac.jp/gaiyo/daigaku_shi/rekishi.html
+</a>
+</p>
+<p class="body">参考：
+<a href = "https://wiki.chakuriki.net/index.php/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:HOSEI_Ichigaya_Repair.jpg">
+https://wiki.chakuriki.net/index.php/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:HOSEI_Ichigaya_Repair.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7415632368906</longitude>
+				<latitude>35.69551131725101</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001220185552723536</heading>
+				<tilt>29.9991309357956</tilt>
+				<range>134.8479056984548</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7414062095963,35.69552314043285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>國學院大學</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://livedoor.4.blogimg.jp/vipsister23/imgs/d/7/d7728717.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+設立1920年の6大学のうちの1つ
+國學院大學は、明治15年に創設された皇典講究所を母体とし、大正9年にわが国で初めて認可された私立大学のひとつです。
+文学部・神道文化学部・法学部・経済学部・人間開発学部の5学部13学科および大学院（文学研究科、法学研究科、経済学研究科）、
+さらに研究開発推進機構と教育開発推進機構を設置しています。グローバル化が進むなかで、國學院大學では異国文化理解にはまず自国文化の理解が必要と考えています。
+世界で活躍できるグローバル人材の育成をめざし、研究と教育を通じて日本の理解を深めると同時に、世界に対しての理解も深めていきます。</p>
+<p class="body">
+「大学令」により、明治大学、法政大学、中央大学、日本大学、國學院大學、同志社大学の6大学が初めて私立大学の設置が許可ました。よって、創立はもっと前ですが、設立は最古のもので1920年のこれらにあたります。
+</p>
+<p class="body">参考：
+<a href = "https://www.kokugakuin.ac.jp/about/introduction">
+https://www.kokugakuin.ac.jp/about/introduction
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://livedoor.4.blogimg.jp/vipsister23/imgs/d/7/d7728717.jpg">
+http://livedoor.4.blogimg.jp/vipsister23/imgs/d/7/d7728717.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7120450469904</longitude>
+				<latitude>35.65575798387786</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003665208655182275</heading>
+				<tilt>30.00058619957479</tilt>
+				<range>130.5241294483922</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7117533803801,35.65561872155885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>日本大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://blogimg.goo.ne.jp/user_image/04/26/9841d92c6bdeea20240a02d4807a7f75.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+設立1920年の6大学のうちの1つ
+</p>
+<p class="body">日本大学は、1889年（明治22年）に創立された日本法律学校を前身とします。
+欧米諸国の法律を学ぶことが主流の当時において、日本の法律を学ぶ学校として誕生した本学は、私学としての独自性を大いに発揮しました。
+1903年（明治36年）には日本大学と改称し、1920年（大正9年）、大学令により大学となりました。
+平成21年に120周年を迎えた本学は、教育理念「自主創造」を合言葉に、新時代を切り拓く人材の育成につとめています。 </p>
+<p class="body">
+「大学令」により、明治大学、法政大学、中央大学、日本大学、國學院大學、同志社大学の6大学が初めて私立大学の設置が許可ました。よって、創立はもっと前ですが、設立は最古のもので1920年のこれらにあたります。
+</p>
+<p class="body">参考：
+<a href = "http://www.nihon-u.ac.jp/about_nu/nu_way/history/">
+http://www.nihon-u.ac.jp/about_nu/nu_way/history/
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://blogimg.goo.ne.jp/user_image/04/26/9841d92c6bdeea20240a02d4807a7f75.jpg">
+http://blogimg.goo.ne.jp/user_image/04/26/9841d92c6bdeea20240a02d4807a7f75.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7375725773747</longitude>
+				<latitude>35.69100352433186</latitude>
+				<altitude>0</altitude>
+				<heading>0.0723070553222627</heading>
+				<tilt>16.69659025908294</tilt>
+				<range>95.73963752543395</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7374150080615,35.6910949640752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中央大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://www.dagashi.org/tokyo/tokyopic/awaji09.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+設立1920年の6大学のうちの1つ
+中央大学は1885（明治18）年7月、東京府神田区神田錦町2丁目2番地に、英吉利法律学校として創設されました。
+創立者は、増島六一郎、高橋一勝、岡山兼吉、高橋健三、岡村輝彦、山田喜之助、菊池武夫、西川鉄次郎、江木衷、磯部醇、藤田隆三郎、土方寧、奥田義人、穂積陳重、合川正道、元田肇、渡辺安積、渋谷慥爾の18人の少壮法律家といわれています。
+明治維新後、わが国では文明開化のスローガンのもと急速な西洋化が進んでいました。そうした状況の中で、法律関係の高い学識が求められるようになり、法学教育への需要も高まっていました。
+増島らは、いまだ欧米先進諸国のように体系化された法典を持たない日本にあっては、欧米列強の模範国としての地位を占めていたイギリスのような慣習法の国を自らのモデルとし、実社会と密接に結びついた英米法を学ぶことこそが「法律実地応用ノ道」に達する最良の方法であるという固い信念を抱いていました。
+創立者たちは、そのために必要な講師の充実、書籍の刊行、図書館の開設を設立趣旨の中に謳い、英吉利法律学校での法学教育をつうじて近代社会にふさわしい人材なかんずく法律家の育成をめざしました。</p>
+<p class="body">
+「大学令」により、明治大学、法政大学、中央大学、日本大学、國學院大學、同志社大学の6大学が初めて私立大学の設置が許可ました。よって、創立はもっと前ですが、設立は最古のもので1920年のこれらにあたります。
+</p>
+<p class="body">参考：
+<a href = "http://www.chuo-u.ac.jp/aboutus/history/history_01/">
+http://www.chuo-u.ac.jp/aboutus/history/history_01/
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://www.dagashi.org/tokyo/tokyopic/awaji09.jpg">
+http://www.dagashi.org/tokyo/tokyopic/awaji09.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.4061935390396</longitude>
+				<latitude>35.64145411601633</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001074436982715915</heading>
+				<tilt>25.31532340451668</tilt>
+				<range>342.609974104014</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4057334376925,35.64135905586939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>お茶の水女子大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">国立女子大学（設置）</p>
+<CENTER>
+<p class="image"><img src="https://kotobank.jp/image/dictionary/daijisen/media/105903.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+お茶の水女子大学は、設立1949年。</p>
+<p class="body">
+1875年11月29日に、女性のための日本初の高等教育機関「東京女子師範学校」として創設され、その後141年にわたって、女子教育の先達として道を切り拓いて来ました。そして数多くの卒業生が、女性が社会で活躍することさえ困難な時代から、学術・研究、教育、産業、行政、報道など、多様な場において努力と実績を重ね、周囲からの厚い信頼も得て、後に続く女性たちのために活躍の場を開拓して来てくれました。
+現在も本学では、これまでに築かれた歴史と伝統を基盤として、広い視野と豊かな感性をもって未来を担う女性たちの育成に取り組んでいます。</p>
+<a href = "http://www.tky-sacred-heart.ed.jp/08_history.html">
+http://www.tky-sacred-heart.ed.jp/08_history.html
+</a>
+</p>
+<p class="body">参考：
+<a href = "https://kotobank.jp/image/dictionary/daijisen/media/105903.jpg">
+https://kotobank.jp/image/dictionary/daijisen/media/105903.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7328304487466</longitude>
+				<latitude>35.71863182440885</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003292900972270658</heading>
+				<tilt>22.60543279986597</tilt>
+				<range>256.6512449334936</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7321832690273,35.71873478018574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京慈恵会医科大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立単科医科大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://nabe-masao.cocolog-nifty.com/.shared/image.html?/photos/uncategorized/2013/05/15/2013_0515_091442m.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　大正10年（1921）、大学令の公布を機会に東京慈恵会医院医学専門学校は東京慈恵会医科大学に昇格した。
+そのとき、高木家私有の東京病院が大学に寄付されたため、当医科大学は附属病院をもつことになった。
+昭和27年（1952）に学制改革による新制の大学となり、昭和31年（1956）、大学院医学研究科博士課程の設置が認可された。</p>
+<p class="body">東京慈恵会医科大学の源流は、高木兼寛（嘉永2年（1849）―大正9年（1920））によって明治14年（1881）5月1日に創立された成医会講習所に始まる。</p>
+<p class="body">参考：
+<a href = "http://www.jikei.ac.jp/jikei/history_1.html">
+http://www.jikei.ac.jp/jikei/history_1.html
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://nabe-masao.cocolog-nifty.com/.shared/image.html?/photos/uncategorized/2013/05/15/2013_0515_091442m.jpg">
+http://nabe-masao.cocolog-nifty.com/.shared/image.html?/photos/uncategorized/2013/05/15/2013_0515_091442m.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7513063304648</longitude>
+				<latitude>35.66238148169683</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002441147584635606</heading>
+				<tilt>16.55024767536105</tilt>
+				<range>200.9646984961946</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.750827145604,35.66244990357193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>学校法人自由学園 初等部</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://blog-imgs-44-origin.fc2.com/o/p/e/openarchitectureblog/20120901224657099.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+自由学園は、ジャーナリストであった羽仁もと子・吉一夫妻によって、1921（大正10）年に創立されました。
+</p>
+<p class="body">
+知識を詰め込むことに重点を置くような当時の教育制度に疑問を感じた2人は、自分の頭で考え、行動する真の実力を持った人間、またその実力にふさわしい教養と人格を備えた人間を育てたいと考えたのです。熱心なクリスチャンでもあった2人は、校名を聖書にある「自由」からとり「自由学園」と名づけました。
+
+創立以来「思想しつつ、生活しつつ、祈りつつ」をモットーに、社会に働きかける学校を目指しながら、創立者の理念である「生活即教育」を少人数の一貫教育によって実現してきた自由学園。思想においては自由を、生活においては協力を、祈りにおいては愛を追い求める人間教育を通して、社会をよくする人間の育成に努めています。 </p>
+<p class="body">参考：
+<a href = "https://www.jiyu.ac.jp/elementary/about/history.php">
+https://www.jiyu.ac.jp/elementary/about/history.php
+</a>
+</p>
+<p class="body">参考：
+<a href = http://blog-imgs-44-origin.fc2.com/o/p/e/openarchitectureblog/20120901224657099.jpg">
+http://blog-imgs-44-origin.fc2.com/o/p/e/openarchitectureblog/20120901224657099.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7076056947546</longitude>
+				<latitude>35.72683161868967</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003392591687897198</heading>
+				<tilt>28.20332343460689</tilt>
+				<range>157.3654078110863</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.707256189371,35.72667470844083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京女子医科大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立女子医学大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://hibiyaline.p1.bindsite.jp/kenchiku/_src/sc560/R0018732.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+東京女子医科大学の前身である東京女医学校を創立したのは明治33年である。
+</p>
+<p class="body">
+当時いかにも低かった婦人の社会的地位を向上せしめようとしたのが動機であります。婦人の地位を向上せしめるには、まず婦人に経済的能力をあたえなければならず、それには自分が医師でもあるし、また、医学医術は婦人に適している立派な職業でもありますから、これを専門に教育する機関を創立することを考えたわけであります。また、私が学びました済生学舎は共学のため風紀が乱れ、そのため女子の入学を拒絶するようになりましたことも私が女子のみの医育機関の必要を感じた動機の一つでもあります。以上のべましたことが創立の根本趣旨のあらましであります。したがいまして、私の考えの根底にあるものは医学ではなくて婦人であります。</p>
+<p class="body">
+もし医学教育のみに眼をそそぐならば共学の方が有利かも判りません。また、病院の経営のみを考えたならば共学の卒業生が勤務する方が楽かもしれません。しかし私の建学の趣旨は上述のとおりでありますので終戦後の困難な時期にもついに初志をまげませんでした。すなわち、終戦後の我が国の医学教育制度改革に際して、女子医学教育を固執することの不利を各方面から公式非公式に勧告されました。けれども、私はいかなる不利な条件があろうとも、この信念をまげまいと考えておりましたので、外国の事情などをいろいろ説明して、女子医学教育の必要性を強調したのでありました。その結果、ついに女子医科大学が認められることになったわけであります。そして、現在では「東京女子医科大学」が本邦唯一の女子医科大学であります。</p>
+<p class="body">以上、創立者：吉岡 彌生</p>
+<p class="body">参考：
+<a href = "http://www.twmu.ac.jp/univ/about/founder.php">
+http://www.twmu.ac.jp/univ/about/founder.php
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://hibiyaline.p1.bindsite.jp/kenchiku/_src/sc560/R0018732.jpg">
+http://hibiyaline.p1.bindsite.jp/kenchiku/_src/sc560/R0018732.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7208763723813</longitude>
+				<latitude>35.69773702692893</latitude>
+				<altitude>0</altitude>
+				<heading>0.002236581094920648</heading>
+				<tilt>19.06735280697231</tilt>
+				<range>254.7421405606596</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7204080946915,35.69755841563303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>聖心女子大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立女子大学（設置）</p>
+<CENTER>
+<p class="image"><img src=" http://blog.canpan.info/fukiura/img/5718/p4100172.jpg" width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+日本には、ヨーロッパからオーストラリアを経て、1908年4名の聖心会修道女によって聖心の教育がもたらされました。現在、日本では7つの姉妹校が幼稚園から大学院まで、世界では30カ国で147の姉妹校が聖心の教育の伝統を受け継いでいます。
+</p>
+<p class="body">
+聖心女子学院は1801年フランスのアミアンで、女子のための寄宿学校として創立されました。それ以後、グルノーブル、ポワティエなどフランス各地で設立され、キリスト教的価値観に基づく魂と高度な知性、行動力を育む聖心の女子教育の伝統の礎が定められました。1818年にはアメリカでも設立され、南米にも広がる。</p><p class="body">参考：
+<a href = "http://www.tky-sacred-heart.ed.jp/08_history.html">
+http://www.tky-sacred-heart.ed.jp/08_history.html
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://blog.canpan.info/fukiura/img/5718/p4100172.jpg">
+http://blog.canpan.info/fukiura/img/5718/p4100172.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7209806738181</longitude>
+				<latitude>35.65111868056722</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008735048647969209</heading>
+				<tilt>22.21403900928559</tilt>
+				<range>282.2171435237068</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7200003862929,35.6512839063479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京女子大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立女子大学（設置）</p>
+<CENTER>
+<p class="image"><img src="https://1.bp.blogspot.com/-MXi4Gd9kHlc/V1UdvydTpSI/AAAAAAAAxZc/p-O14vzhXm0D2__tOJCjdCZYkVySuzUrQCLcB/s1600/IMAG1463.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+
+東京女子大学は、北米プロテスタント6教派の援助を得て、1918（大正7）年「キリスト教の精神に基づいて女子に高等教育を施すことを目的とする」という建学の精神のもと、リベラル・アーツ・カレッジ「私立東京女子大学」として創立されました。
+</p>
+<p class="body">
+この建学の精神は、学校法人東京女子大学寄附行為に、「教育基本法及び学校教育法に従い、女子高等教育を行うことを目的とすること」、「キリスト教の精神をもって、人格形成の基礎とする」こととして定められています。
+</p>
+<p class="body">
+2018（平成30）年に創立100周年を迎えますが、少人数教育により、学生一人ひとりを大切に育てる伝統を守りながら、新たに21世紀に生きる女性を育成することを目指して、グローバル化・情報化・多様化する社会に対応する教育を行う女子大学として、次の一歩を踏み出しています。</p>
+
+<p class="body">参考：
+<a href = "http://office.twcu.ac.jp/univ/about/introduction/spirit/">
+http://office.twcu.ac.jp/univ/about/introduction/spirit/
+</a>
+</p>
+<p class="body">参考：
+<a href = "https://1.bp.blogspot.com/-MXi4Gd9kHlc/V1UdvydTpSI/AAAAAAAAxZc/p-O14vzhXm0D2__tOJCjdCZYkVySuzUrQCLcB/s1600/IMAG1463.jpg">
+https://1.bp.blogspot.com/-MXi4Gd9kHlc/V1UdvydTpSI/AAAAAAAAxZc/p-O14vzhXm0D2__tOJCjdCZYkVySuzUrQCLcB/s1600/IMAG1463.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.5930288211707</longitude>
+				<latitude>35.70981977106415</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001392060287606625</heading>
+				<tilt>16.5558950888662</tilt>
+				<range>334.834594872385</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.591390817953,35.70976959609786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京音楽大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject"></p>
+<CENTER>
+<p class="image"><img src="http://www.toda.co.jp/works/edu/images/edu_22.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1907年に設立された私立音楽大学</p>
+<p class="body">　東京音楽大学の前身である、東洋音楽学校は、私立の音楽大学としては最も古く、明治40年東京市神田区裏猿楽町（現東京都千代田区）に設立されました。翌年には管弦楽部を設けて明治43年、英国大使夫妻、岩崎小弥太男爵夫妻の後援を得、ロンドンのロイヤル・フィルハーモニーにならい、東京フィルハーモニー会を設立。後にこのオーケストラが山田耕筰に引き継がれ、新交響楽団（現在のNHK交響楽団）へと発展し、クラシック音楽の普及に大きく貢献しました。</p>
+<p class="body">また、卒業生の一部がアメリカ航路の客船に楽団員として乗船し、ジャズを始めとする海外の音楽文化を吸収、アメリカで各種の楽器・楽譜を購入するとともに、オペラや各種コンサートをはじめ、教会音楽や、劇場・映画館の伴奏音楽等にいたるまでの情報収集等、わが国へあらゆるジャンルの音楽を紹介したことも忘れてはなりません。
+</p>
+
+<p class="body">参考：
+<a href = "　URL:http://www.tokyo-ondai.ac.jp/">
+　URL:http://www.tokyo-ondai.ac.jp/
+</a>
+</p>
+
+<p class="body">参考：
+<a href = "http://www.toda.co.jp/works/edu/images/edu_22.jpg">
+http://www.toda.co.jp/works/edu/images/edu_22.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7144504750742</longitude>
+				<latitude>35.72309992931979</latitude>
+				<altitude>0</altitude>
+				<heading>6.032242911120968e-005</heading>
+				<tilt>27.94895896133352</tilt>
+				<range>158.0226622197795</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.714175386344,35.72296940482648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>立正大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立大学（創立）</p>
+<CENTER>
+<p class="image"><img src="http://www.hokkekai.jp/20shukuji/watanabe/risshou-gakuen2.jpg" width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　天正8年（1580年）、日蓮宗の教育機関として千葉県に檀林を設立。
+</p>
+<p class="body">
+　明治5年（1872年）に檀林を廃止し東京芝二本榎に小教院を設立。その後大正13年（1924年）に大学令によって立正大学が設立、文学部予科（宗教学科、哲学科、社会学科、史学科、文学科）及び研究科を設置した。
+</p>
+<p class="body">参考：<a href="http://www.ris.ac.jp/introduction/development/history/index.html">http://www.ris.ac.jp/introduction/development/history/index.html</a></p>
+<p class="body">参考：<a href="http://www.hokkekai.jp/20shukuji/watanabe/risshou-gakuen2.jpgl">http://www.hokkekai.jp/20shukuji/watanabe/risshou-gakuen2.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7237250086263</longitude>
+				<latitude>35.62061065068986</latitude>
+				<altitude>0</altitude>
+				<heading>4.190189959547296e-010</heading>
+				<tilt>0</tilt>
+				<range>1005.694432863555</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7237250086263,35.62061065068986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>お茶の水女子大学附属幼稚園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">幼稚園</p>
+<CENTER>
+<p class="image"><img src="http://blog-imgs-45.fc2.com/1/0/6/106season2/DSC03116.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治9年（1876年）11月16日、東京女子師範学校として現在の文京区湯島3丁目に開園。
+</p>
+<p class="body">
+　1945年3月に太平洋戦争激化のため閉園したが、同年11月に再開した。
+</p>
+<p class="body">
+　1952年にお茶の水女子大学文教育学部附属幼稚園と称した後、1980年にお茶の水女子大学附属幼稚園となり現在に至る。
+</p>
+<p class="body">参考：<a href="http://www.fz.ocha.ac.jp/fy/outline/history.html">http://www.fz.ocha.ac.jp/fy/outline/history.html</a></p>
+<p class="body">参考：
+<a href = "http://blog-imgs-45.fc2.com/1/0/6/106season2/DSC03116.jpg">
+http://blog-imgs-45.fc2.com/1/0/6/106season2/DSC03116.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7330206001861</longitude>
+				<latitude>35.71817259977618</latitude>
+				<altitude>0</altitude>
+				<heading>1.086731923562455e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000004444973</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7330206001861,35.71817259977618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>日本女子大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立女子大学（設置）</p>
+<CENTER>
+<p class="image"><img src="http://livedoor.4.blogimg.jp/vipsister23/imgs/4/1/412d83a1.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1901（明治34）年、目白の地に開校
+</p>
+<p class="body">
+1901年の建学以来、時代に先駆けて女子高等教育の道を切り拓いてきました。欧米でも男女の不平等が当たり前であった当初から、男女の平等を基本にした「人間」教育を女子教育の第一においたことは画期的で、先入見や旧弊に囚われず、時代をリードする「婦人」「国民」としての自覚・矜持を促すものでもありました。
+</p>
+<p class="body">
+女性の社会進出がむずかしい時代から、さまざまな分野でパイオニアを生み出し、女子総合大学として、家政学部、文学部、人間社会学部、理学部、さらに早い時期から大学院も創設し、多方面で活躍する卒業生を輩出し続けています。
+</p>
+<p class="body">参考：
+<a href = "http://www.jwu.ac.jp/unv/about/gaiyou/concept.html">
+http://www.jwu.ac.jp/unv/about/gaiyou/concept.html
+</a>
+</p>
+<p class="body">参考：
+<a href = "http://livedoor.4.blogimg.jp/vipsister23/imgs/4/1/412d83a1.jpg">
+http://livedoor.4.blogimg.jp/vipsister23/imgs/4/1/412d83a1.jpg
+</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7208730337626</longitude>
+				<latitude>35.71659391791702</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002099068216628764</heading>
+				<tilt>29.84724690162764</tilt>
+				<range>157.3768072235512</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7204203539085,35.71689896091355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京藝術大学　赤レンガ1号館</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">レンガ建築</p>
+<CENTER>
+<p class="image"><img src="http://blog-imgs-43.fc2.com/k/i/n/kindaikenchikurest/DSCN9899.jpg" width = " 300" height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治9年に教育博物館の書庫として建てられ。竣工したのは明治13年（1880年）。
+</p>
+<p class="body">
+　すべての開口部に鉄扉を付設するなどの不燃性を重視したつくりが幸いし、今も現存している。東京藝術大学の前身、東京美術学校へ移管された後、関東大震災で被害を受けつつ、書庫から藝大附属図書館書庫、電話交換所、教室など模様替えをされながら様々な利用をされてきた。
+</p>
+<p class="body">参考：<a href="http://konmasa102.exblog.jp/14860666/">http://konmasa102.exblog.jp/14860666/</a></p>
+<p class="body">参考：<a href="http://blog-imgs-43.fc2.com/k/i/n/kindaikenchikurest/DSCN9899.jpg">http://blog-imgs-43.fc2.com/k/i/n/kindaikenchikurest/DSCN9899.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7723982930273</longitude>
+				<latitude>35.7192244100526</latitude>
+				<altitude>0</altitude>
+				<heading>7.58111403661657e-005</heading>
+				<tilt>21.15061633021356</tilt>
+				<range>325.1970640591042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7721219038893,35.71952292617791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京工業大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">国立単科工科大学（創立）</p>
+<CENTER>
+<p class="image"><img src="http://img.4travel.jp/img/tcs/t/tips/pict/src/145/793/src_14579323.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治14年（1881年）に東京職工大学として設立。
+</p>
+<p class="body">
+　明治23年に東京工業学校へ改称、34年には東京高等工業学校へ改称。昭和4年に東京工業大学へ昇格した。
+</p>
+<p class="body">参考：<a href="http://www.titech.ac.jp/about/overview/history.html">http://www.titech.ac.jp/about/overview/history.html</a></p>
+<p class="body">参考：<a href="http://img.4travel.jp/img/tcs/t/tips/pict/src/145/793/src_14579323.jpgl">http://img.4travel.jp/img/tcs/t/tips/pict/src/145/793/src_14579323.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6835302000335</longitude>
+				<latitude>35.60512289999397</latitude>
+				<altitude>0</altitude>
+				<heading>1.949043908800843e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000002786259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6835302000335,35.60512289999397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">国立大学（設置）</p>
+<CENTER>
+<p class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Akamon_ca._1910.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治10年（1877年）4月に東京開成学校と東京医学校を合併し東京大学創設。旧東京開成学校を改組し、法・理・文の3学部、旧東京医学校を改組し医学部を設置した。
+</p>
+<p class="body">
+　明治19年3月に帝国大学令が公布されると、工部大学校を統合して帝国大学に改組。法・医・工・文・理の5分科大学となった。明治30年、京都帝国大学の創設に伴い東京帝国大学に改称。昭和22年に東京大学に改称した。
+</p>
+<p class="body">参考：<a href="http://www.u-tokyo.ac.jp/gen03/b03_01_j.html">http://www.u-tokyo.ac.jp/gen03/b03_01_j.html</a></p>
+<p class="body">参考：<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Akamon_ca._1910.jpg">https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Akamon_ca._1910.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7619890003191</longitude>
+				<latitude>35.71267749992418</latitude>
+				<altitude>0</altitude>
+				<heading>1.862882682479997e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000021996386</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7619890003191,35.71267749992418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京理科大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">私立理科系専門学校（創立）</p>
+<CENTER>
+<p class="image"><img src="http://jice.homemate-navi.com/pubuser1/pubuser_facility_img/4/8/7/00000000000000162784/0000006269/00000000000000162784_0000006269_5.jpg?f=0 " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治14年（1881年）に東京大学の1回生から3回生までの卒業生19名の青年理学士とほか2名が、「理学の普及」を目指し、東京理科大学の前身「東京物理学講習所」を創設、維持同盟を結んだ。2年後に東京物理学校に改称。
+</p>
+<p class="body">
+　昭和24年4月、学制改革により東京理科大学となる。
+</p>
+<p class="body">参考：<a href="http://www.tus.ac.jp/info/about/history.html">http://www.tus.ac.jp/info/about/history.html</a></p>
+<p class="body">参考：<a href="http://jice.homemate-navi.com/pubuser1/pubuser_facility_img/4/8/7/00000000000000162784/0000006269/00000000000000162784_0000006269_5.jpg?f=0">http://jice.homemate-navi.com/pubuser1/pubuser_facility_img/4/8/7/00000000000000162784/0000006269/00000000000000162784_0000006269_5.jpg?f=0</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7413980002126</longitude>
+				<latitude>35.69939900006815</latitude>
+				<altitude>0</altitude>
+				<heading>1.240289103583513e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00000111285</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7413980002126,35.69939900006815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧東京音楽学校奏楽堂</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">洋式音楽ホール</p>
+<CENTER>
+<p class="image"><img src="http://img.4travel.jp/img/tcs/t/pict/src/24/57/74/src_24577407.jpg?1329730057 " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治23年（1890年）に東京藝術大学音楽学部の前身、東京音楽学校の校舎として建造された。
+</p>
+<p class="body">
+　2階の音楽ホールはかつて瀧廉太郎がピアノを弾き、山田耕筰が歌曲を歌い、三浦環が日本人による初のオペラ公演でデビューを飾った由緒ある舞台。
+</p>
+<p class="body">
+　1983年に台東区が東京藝術大学から譲り受けると、1987年に現在の地へ校舎を移築・復原し、「旧音楽学校奏楽堂」として一般公開した。翌年には日本最古の洋式音楽ホールを擁する校舎として、重要文化財の指定を受けた。
+</p>
+<p class="body">参考：<a href="http://www.taitocity.net/zaidan/sougakudou/rekishi/">http://www.taitocity.net/zaidan/sougakudou/rekishi/</a></p>
+<p class="body">参考：<a href="http://img.4travel.jp/img/tcs/t/pict/src/24/57/74/src_24577407.jpg?1329730057">http://img.4travel.jp/img/tcs/t/pict/src/24/57/74/src_24577407.jpg?1329730057</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7731430000252</longitude>
+				<latitude>35.71805899998531</latitude>
+				<altitude>0</altitude>
+				<heading>1.472914872985755e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000020122831</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7731430000252,35.71805899998531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京歯科大学</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">歯科大学（創立）</p>
+<CENTER>
+<p class="image"><img src="http://blogimg.goo.ne.jp/user_image/4c/27/2f5d64797c08003d58ddf3248552a9dd.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治23年（1890年）高山紀齋が現在の港区に高山歯科医学院を創立。
+</p>
+<p class="body">
+　明治33年に東京歯科医学院に改称。明治40年に東京歯科医学専門学校として設置が認可される。昭和21年に東京歯科大学の設置が認可。
+</p>
+<p class="body">
+　昭和24年6月には東京歯科大学病院の開設が認可された。27年には学校教育法に則り新制の東京歯科大学となる。
+</p>
+<p class="body">参考：<a href="http://www.tdc.ac.jp/college/introduction/tabid/111/Default.aspx">http://www.tdc.ac.jp/college/introduction/tabid/111/Default.aspx</a></p>
+<p class="body">参考：<a href="http://blogimg.goo.ne.jp/user_image/4c/27/2f5d64797c08003d58ddf3248552a9dd.jpg ">http://blogimg.goo.ne.jp/user_image/4c/27/2f5d64797c08003d58ddf3248552a9dd.jpg </a></p>]]></description>
+			<LookAt>
+				<longitude>139.7549837001044</longitude>
+				<latitude>35.70110469960439</latitude>
+				<altitude>0</altitude>
+				<heading>6.088535826725609e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00000513966</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7549837001043,35.7011046996044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>筑波大学附属小学校</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">国立小学校</p>
+<CENTER>
+<p class="image"><img src="http://tachibana-kai.com/web/wp-content/uploads/2016/02/historyPhoto_4.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治6年（1873年）1月に日本初の国立の師範学校の練習小学校として設立。
+</p>
+<p class="body">
+　同年3月に男子72名、女子32名を入学させ開校した。
+</p>
+<p class="body">参考：<a href="http://www.elementary-s.tsukuba.ac.jp/schoolHistory.html">http://www.elementary-s.tsukuba.ac.jp/schoolHistory.html</a></p>
+<p class="body">参考：<a href="http://tachibana-kai.com/web/wp-content/uploads/2016/02/historyPhoto_4.jpg ">http://tachibana-kai.com/web/wp-content/uploads/2016/02/historyPhoto_4.jpg "</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7366709004068</longitude>
+				<latitude>35.7212534000825</latitude>
+				<altitude>0</altitude>
+				<heading>2.375047402836067e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000006617411</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7366709004068,35.7212534000825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>テンプル大学ジャパンキャンパス</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">外国大学の日本校</p>
+<CENTER>
+<p class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB%E5%A4%A7%E5%AD%A6.jpg " width = "300 " height = " "></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　テンプル大学ジャパンキャンパス (TUJ) は、1982年に設立されたテンプル大学の日本校。
+</p>
+<p class="body">
+　外国大学の日本校（米国大学日本校）としては最も古く、学生数で最大規模。2005年、文部科学省から外国大学日本校として初めての指定を受けた。外国人学生を対象とした日本語クラスを除いては、授業は全て英語で行われる。インターナショナルスクール出身者や米国、中東、ヨーロッパ、台湾など海外から来る学生や各国大使館の子息も多い。学部課程の国籍割合は、日本とアメリカが4割ずつ、残りの2割は50カ国以上から来ている。テンプル大学米国本校はもちろん、北米のほとんどの大学への（からの）編入が可能なほか、日本の大学への（からの）編入や日本の大学院への進学も可能。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB%E5%A4%A7%E5%AD%A6#.E3.82.AD.E3.83.A3.E3.83.B3.E3.83.91.E3.82.B9">https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB%E5%A4%A7%E5%AD%A6#.E3.82.AD.E3.83.A3.E3.83.B3.E3.83.91.E3.82.B9</a></p>
+
+<p class= "body">参考：<a href="https://upload.wikimedia.org/wikipedia/commons/6/68/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB%E5%A4%A7%E5%AD%A6.jpg">https://upload.wikimedia.org/wikipedia/commons/6/68/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB%E5%A4%A7%E5%AD%A6.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7361016</longitude>
+				<latitude>35.6484749</latitude>
+				<altitude>0</altitude>
+				<heading>3.180554681463517e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000694</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#school</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7361016,35.6484749,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>goraku.kml</name>
+	<Style id="goraku0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh4.googleusercontent.com/J6yY797eI0cx53YKIkxNufPks00DAqHDQ1qXS7CROe2zJWBVj11MzhyOIIlFXwOkMZgGe--lYrWqPew=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="goraku1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh4.googleusercontent.com/J6yY797eI0cx53YKIkxNufPks00DAqHDQ1qXS7CROe2zJWBVj11MzhyOIIlFXwOkMZgGe--lYrWqPew=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="goraku">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#goraku0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#goraku1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>goraku</name>
+		<Placemark>
+			<name>あけぼの湯</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">温泉</p>
+<CENTER>
+<p class="image"><img src="http://nikkei-site.com/images/akebon2.jpg " width = "300" height = "217.6781"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　安永2年（1773年）に開業。
+</p>
+<p class="body">
+　あけぼの湯の祖先は戦国時代の北条家の家臣で北条家が豊臣秀吉に滅ぼされてからは船問屋を営んでいた。江戸城内に出入りする船の積荷や客を取り締まっていた舟番所にて幕府の治安維持に則り夜間の運行ができず足止めされた船頭や人足たちのために銭湯を営んだのが始まり。
+</p>
+<p class="body">参考：<a href="https://thepage.jp/tokyo/detail/20150901-00000003-wordleaf">https://thepage.jp/tokyo/detail/20150901-00000003-wordleaf</a></br>
+参考：<a href ="http://nikkei-site.com/images/akebon2.jpg">http://nikkei-site.com/images/akebon2.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.8636500001655</longitude>
+				<latitude>35.68061240034724</latitude>
+				<altitude>0</altitude>
+				<heading>9.655209846518796e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000007154945</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8636500001655,35.68061240034723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上川口屋</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">駄菓子屋</p>
+<CENTER>
+<p class="image"><img src="https://blog-001.west.edge.storage-yahoo.jp/res/blog-6a-03/yasainikon/folder/546315/30/6293430/img_1?1251516176" width = "300" height = "199.5"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　江戸時代、1781年に創業。
+</p>
+<p class="body">
+　創業時は当時高級品とされていた飴の販売をしていた。ジブリ映画「おもひでぽろぽろ」に登場する駄菓子屋のモデルになっている。
+</p>
+<p class="body">参考：<a href="http://guide.travel.co.jp/article/2417/">http://guide.travel.co.jp/article/2417/</a></br>
+参考：<a href="https://blog-001.west.edge.storage-yahoo.jp/res/blog-6a-03/yasainikon/folder/546315/30/6293430/img_1?1251516176">https://blog-001.west.edge.storage-yahoo.jp/res/blog-6a-03/yasainikon/folder/546315/30/6293430/img_1?1251516176</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7137721210374</longitude>
+				<latitude>35.72196246665356</latitude>
+				<altitude>0</altitude>
+				<heading>1.738427577794329e-10</heading>
+				<tilt>0</tilt>
+				<range>1002.023942968737</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7137721210374,35.72196246665355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>浅草花やしき</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">遊園地</p>
+<CENTER>
+<p class="image"><img src="https://prtimes.jp/i/13052/23/resize/d13052-23-376528-4.jpg" width = "300" height = "252"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　江戸時代末期の嘉永6年（1853年）に、牡丹と菊細工を主とした植物園「花屋敷」として開園。昭和24年（1949年）に遊園地となり名前が「浅草花やしき」に変更された。
+</p>
+<p class="body">
+　遊園地となった当時は入園無料だった。有名なローラーコースターは昭和28年（1953年）に完成した。
+</p>
+<p class="body">参考：<a href="https://asakusakanko.com/hanayashiki/">https://asakusakanko.com/hanayashiki/</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7945439998345</longitude>
+				<latitude>35.71528500025067</latitude>
+				<altitude>0</altitude>
+				<heading>-9.663479288690602e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.00002355917</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7945439998345,35.71528500025067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>鈴本演芸場</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">寄席</p>
+<CENTER>
+<p class="image"><img src="https://icotto.k-img.com/system/press_images/000/014/236/a6139af100aee7353d7ef3c6aadb5a646ff1dc00.jpg?1452323480" width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　安政4年（1857年）に初代龍助が上野広小路に「軍談席本牧亭」という講釈場を開始。これが鈴本演芸場の母体。
+</p>
+<p class="body">参考：<a href="http://www.rakugo.or.jp/annai.html">http://www.rakugo.or.jp/annai.html</a></br>
+参考：<a href="https://icotto.k-img.com/system/press_images/000/014/236/a6139af100aee7353d7ef3c6aadb5a646ff1dc00.jpg?1452323480">https://icotto.k-img.com/system/press_images/000/014/236/a6139af100aee7353d7ef3c6aadb5a646ff1dc00.jpg?1452323480</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7729240001671</longitude>
+				<latitude>35.70923770019807</latitude>
+				<altitude>0</altitude>
+				<heading>9.747763987749386e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000020259713</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.772924000167,35.70923770019807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京国立博物館</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">博物館</p>
+<CENTER>
+<p class="image"><img src="http://www.tnm.jp/tnm_images/his10-01.jpg" width = "300" height = "195.348837"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治5年（1872年）3月10日に日本最古の博物館として誕生。
+</p>
+<p class="body">
+　開館後間も無く内山下町に移転、次いで明治15年に上野公園に移り、現在に至っている。今まで、時代の施策によって所属官庁が変わったり、大規模な組織改変などが行われてきた。
+</p>
+<p class="body">参考：<a href="http://www.tnm.jp/modules/r_free_page/index.php?id=143">http://www.tnm.jp/modules/r_free_page/index.php?id=143</a></br>
+参考：<a href="http://www.tnm.jp/tnm_images/his10-01.jpg">http://www.tnm.jp/tnm_images/his10-01.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7765215001215</longitude>
+				<latitude>35.71883510006406</latitude>
+				<altitude>0</altitude>
+				<heading>7.097407771685837e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000001223488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7765215001215,35.71883510006406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小石川植物園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">植物園</p>
+<CENTER>
+<p class="image"><img src="https://img.guide.travel.co.jp/article/717/20160505014057/F537BCDD920441F3A0C0FDA05DAC247D_L.jpg" width = "300" height = "168.75"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　貞享元年（1684年）に徳川幕府が設けた「小石川御薬園」がこの植物園の前身。明治10年（1877年）、東京大学が設立された直後に附属植物園となり一般公開された。
+</p>
+<p class="body">参考：<a href="http://www.bg.s.u-tokyo.ac.jp/koishikawa/overview/">http://www.bg.s.u-tokyo.ac.jp/koishikawa/overview/</a></br>
+参考：<a href="https://img.guide.travel.co.jp/article/717/20160505014057/F537BCDD920441F3A0C0FDA05DAC247D_L.jpg">https://img.guide.travel.co.jp/article/717/20160505014057/F537BCDD920441F3A0C0FDA05DAC247D_L.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7455905002299</longitude>
+				<latitude>35.71902900050398</latitude>
+				<altitude>0</altitude>
+				<heading>1.342671158779824e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000038128011</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.74559050023,35.71902900050398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>恩賜上野動物園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">動物園</p>
+<CENTER>
+<p class="image"><img src="http://maboroshi-ch.com/maboblog/saeki/58-9.jpg" width = "300" height = "185"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治15年（1882年）に農商務省所管の博物館付属施設として開園した。1886年には宮内省所管になり、1924年に皇太子殿下（昭和天皇）のご成婚を記念して、東京市に下賜された。
+</p>
+<p class="body">
+　第二次大戦中には、猛獣処分が行われた。一方で日本を代表する動物園として機能しており、1972年には日中国交回復を記念しジャイアントパンダが来園することもあった。
+</p>
+<p class="body">参考：<a href="http://www.tokyo-zoo.net/zoo/ueno/history.html">http://www.tokyo-zoo.net/zoo/ueno/history.html</a></br>
+参考：<a href="http://maboroshi-ch.com/maboblog/saeki/58-9.jpg">http://maboroshi-ch.com/maboblog/saeki/58-9.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7713176998984</longitude>
+				<latitude>35.71645349996049</latitude>
+				<altitude>0</altitude>
+				<heading>-5.928871981716141e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000006421268</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7713176998984,35.71645349996049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>旧東京音楽学校奏楽堂</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">洋式音楽ホール</p>
+<CENTER>
+<p class="image"><img src="http://www.geocities.jp/bane2161/PICT05191.jpg" width = "300" height = "225"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　明治23年（1890年）に東京藝術大学音楽学部の前身、東京音楽学校の校舎として建造された。
+</p>
+<p class="body">
+　2階の音楽ホールはかつて瀧廉太郎がピアノを弾き、山田耕筰が歌曲を歌い、三浦環が日本人による初のオペラ公演でデビューを飾った由緒ある舞台。
+</p>
+<p class="body">
+　1983年に台東区が東京藝術大学から譲り受けると、1987年に現在の地へ校舎を移築・復原し、「旧音楽学校奏楽堂」として一般公開した。翌年には日本最古の洋式音楽ホールを擁する校舎として、重要文化財の指定を受けた。
+</p>
+<p class="body">参考：<a href="http://www.taitocity.net/zaidan/sougakudou/rekishi/">http://www.taitocity.net/zaidan/sougakudou/rekishi/</a></br>
+参考：<a href="http://www.geocities.jp/bane2161/PICT05191.jpg">http://www.geocities.jp/bane2161/PICT05191.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7731430000252</longitude>
+				<latitude>35.71805899998531</latitude>
+				<altitude>0</altitude>
+				<heading>1.472914872985755e-11</heading>
+				<tilt>0</tilt>
+				<range>1000.000020122831</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7731430000252,35.71805899998531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新宿ヘッドパワー</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ライブハウス</p>
+<CENTER>
+<p class="image"><img src="http://www.pdon.jp/image/headpower/headpower-stage.jpg" width = "300" height = "147.92"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1968年に開店。
+</p>
+<p class= "body">参考：<a href="http://headpower.tokyo/">http://headpower.tokyo/</a></br>
+参考：<a href="http://www.pdon.jp/image/headpower/headpower-stage.jpg">http://www.pdon.jp/image/headpower/headpower-stage.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7081178</longitude>
+				<latitude>35.70299189999999</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000727</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7081178,35.70299189999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>フォーチュンカフェトリン</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">占いカフェ</p>
+<CENTER>
+<p class="image"><img src="http://www.trine.jp/wordpress/wp-content/themes/kyma/images/slide3.jpg" width = "300" height = "119.7"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1986年に創業した都内最古の占いカフェ "フォーチュンカフェトリン"。
+</p>
+
+<p class= "body">参考：<a href="http://www.trine.jp/">http://www.trine.jp/</a></br>
+参考：<a href="http://www.trine.jp/wordpress/wp-content/themes/kyma/images/slide3.jpg">http://www.trine.jp/wordpress/wp-content/themes/kyma/images/slide3.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.697879</longitude>
+				<latitude>35.66169400000001</latitude>
+				<altitude>0</altitude>
+				<heading>-0</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000394</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.697879,35.661694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京ドーム</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">全天候型野球場</p>
+<CENTER>
+<p class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tokyo_Dome_2007-12.jpg" width = "300" height = "166.8"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1988年3月18日に後楽園球場の実質的な代替球場として後楽園競輪場の跡地に開場。
+</p>
+<p class="body">
+　空気膜構造屋根を持つアメリカのメトロドームをモデルとして設計された。 後楽園球場から引き続き、巨人とパシフィック・リーグの日本ハムファイターズ（当時）が専用球場とした。そのため開場から2003年まではプロ野球の2つの球団が本拠地としていた。これは東京ドームが唯一であったが日本ハムは2004年度に北海道の札幌ドームに移転し「北海道日本ハムファイターズ」となったため、1つの球場を2つの球団が本拠地とするケースは消滅したが、現在も8試合の主催試合を開催している（試合数は2007年から固定）。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0">https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0</a></br>
+参考：<a href="https://upload.wikimedia.org/wikipedia/commons/5/56/Tokyo_Dome_2007-12.jpg">https://upload.wikimedia.org/wikipedia/commons/5/56/Tokyo_Dome_2007-12.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7518913</longitude>
+				<latitude>35.7056396</latitude>
+				<altitude>0</altitude>
+				<heading>-9.54166404439055e-15</heading>
+				<tilt>0</tilt>
+				<range>999.9999999994757</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7518913,35.7056396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>帝国劇場</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">西洋式劇場</p>
+<CENTER>
+<p class="image"><img src="https://kotobank.jp/image/dictionary/daijisen/media/114524.jpg" width = "300" height = "213.8"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1911年（明治44年）3月1日に竣工式が行われた日本初の西洋式演劇劇場。
+</p>
+<p class="body">
+　帝国劇場は、益田太郎、西野恵之助、渋沢栄一、荘田平五郎、福澤捨次郎、福澤桃介、日比翁助、田中常徳、手塚猛昌が発起人となり、大倉喜八郎が采配を振って設立された日本初の西洋式演劇劇場で、1911年（明治44年）3月1日に竣工式が行われた。横河民輔の設計によるルネサンス建築様式の劇場だった。1912年（大正元年） - 1916年（大正5年)にイタリア人音楽家ローシーを招いてオペラ・バレエを上演したほか、六代目尾上梅幸・七代目松本幸四郎・七代目澤村宗十郎らが専属俳優となり歌舞伎やシェイクスピア劇などを上演。当時の「今日は帝劇、明日は三越」という宣伝文句は流行語にもなり、消費時代の幕開けを象徴する言葉として定着した。
+1923年（大正12年）の大正関東地震（関東大震災）では隣接する警視庁から出た火災により外郭を残して焼け落ちたが、横河民輔により改修され、翌1924年（大正13年）に再開した。1930年（昭和5年）に松竹の経営となり、間もなく洋画封切館に転用。SYチェーン（松竹洋画系）の基幹劇場となった。1939年（昭和14年）、運営会社を東宝が合併し、翌1940年（昭和15年）松竹の賃借期限が切れると共に東宝の手により元の演劇主体の興行形態に戻す。しかし1955年（昭和30年）、舞台に巨大映画スクリーン・シネラマが設置され、再びシネラマ主体の洋画ロードショー用の映画館に転じたが、1964年（昭和39年）から翌年にかけての『アラビアのロレンス』を最後に解体された。
+現在の複合ビルディング形式の建物は谷口吉郎の設計で1966年（昭和41年）9月29日に落成した。帝劇ビルの一部は落成当時から、石油業界大手の出光興産が本社として使用しており、最上階の9階は同社創業者出光佐三による古美術コレクションを展示する出光美術館（東京館）となっている。1969年（昭和44年）から1984年（昭和59年）まで、『日本レコード大賞』発表会も行われた。現在、年間10作品程度上演している。また大晦日に行なわれる年末ジャンボ宝くじの抽せん会場としても知られた（1997年 - 1999年、2001年 - 2005年。2000年は新宿コマ劇場で、2006年 - 2009年は東京厚生年金会館で、2010年はメルパルク東京で行われていた。2011年以降は赤坂ACTシアターで行われている）。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%88%9D%E3%81%AE%E4%B8%80%E8%A6%A7#.E6.BC.94.E8.8A.B8">https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%88%9D%E3%81%AE%E4%B8%80%E8%A6%A7#.E6.BC.94.E8.8A.B8</a></br>
+参考：<a href="https://kotobank.jp/image/dictionary/daijisen/media/114524.jpg">https://kotobank.jp/image/dictionary/daijisen/media/114524.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.7606936</longitude>
+				<latitude>35.6765206</latitude>
+				<altitude>0</altitude>
+				<heading>1.272221872585407e-14</heading>
+				<tilt>0</tilt>
+				<range>1000.000000001994</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7606936,35.6765206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>豊島園</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">流れるプール</p>
+<CENTER>
+<p class="image"><img src="http://www.geocities.jp/yuumaru_a/mirage/m-tour/mira-tour-photo/toshima-en/toshimaen-pool.jpg" width = "296.4" height = "300"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1953年（昭和28年）東京・青山に、対面販売ではなくセルフサービス方式による日本で初めての食料品スーパーマーケットを開業した。
+</p>
+<p class="body">
+　紀ノ国屋は、東京都を拠点とする高級スーパーマーケットチェーンである。東日本旅客鉄道（JR東日本）の完全子会社である株式会社紀ノ國屋によって運営されている。
+</p>
+
+<p class= "body">参考：<a href="https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B">https://ja.wikipedia.org/wiki/%E7%B4%80%E3%83%8E%E5%9B%BD%E5%B1%8B</a></br>
+参考：<a href="http://www.geocities.jp/yuumaru_a/mirage/m-tour/mira-tour-photo/toshima-en/toshimaen-pool.jpg">http://www.geocities.jp/yuumaru_a/mirage/m-tour/mira-tour-photo/toshima-en/toshimaen-pool.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.6454129808414</longitude>
+				<latitude>35.74362862377433</latitude>
+				<altitude>0</altitude>
+				<heading>7.265860998137278e-05</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6453248777368,35.74358235401789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小金井カントリー倶楽部</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">ゴルフ場</p>
+<CENTER>
+<p class="image"><img src="https://www.1net.co.jp/wp-content/uploads/2016/03/koganei-SANY0094.jpg" width = "300" height = "178.2"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+1937年開場、ウォルター・ヘーゲン設計の歴史と伝統の株主会員制のゴルフ場、小金井カントリー倶楽部 （東京都小平市のゴルフ場）。</p>
+<p class="body">
+開場は戦前の1937年、歴史と伝統の株主会員制の日本を代表する名門ゴルフ場。 メジャー11勝、往年の名プレーヤー、ウォルター・ヘーゲン設計。 武蔵野の面影を残す雑木林でセパレートされた林間コースで、距離は短めだが、砲台グリーンとガードバンカーが効いている。メンバー同伴でラウンド可能だが、男性は35歳以上の高い壁！？が存在しているようです。第16回日本プロゴルフ選手権開催コース(1942年)。優勝は陳清水。口コミ総合評価の平均は★★★★★。　
+</p>
+
+<p class="body">参考：
+<a href = "https://www.100yardage.com/">
+https://www.100yardage.com/</a></br>
+参考：<a href="https://www.1net.co.jp/wp-content/uploads/2016/03/koganei-SANY0094.jpg">https://www.1net.co.jp/wp-content/uploads/2016/03/koganei-SANY0094.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.507258760652</longitude>
+				<latitude>35.71626854927484</latitude>
+				<altitude>0</altitude>
+				<heading>0.001315725011692486</heading>
+				<tilt>6.600538714100014</tilt>
+				<range>649.1623736094552</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#goraku</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5045282906603,35.71628204739807,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

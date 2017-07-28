@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kigyo.kml</name>
+	<Style id="kigyo0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh5.googleusercontent.com/Rw9-sL2UM9ibBNeukywkcAikvshS1wj-GKEv0mWE6V9GlO9r_YhKb_Xs97zrxJWRbqsNqiX4cVEl8ic=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="kigyo1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh5.googleusercontent.com/Rw9-sL2UM9ibBNeukywkcAikvshS1wj-GKEv0mWE6V9GlO9r_YhKb_Xs97zrxJWRbqsNqiX4cVEl8ic=w2880-h1564</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="kigyo">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#kigyo0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#kigyo1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>kigyo</name>
+		<Placemark>
+			<name>宗家花火鍵屋</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">花火製作会社</p>
+<CENTER>
+<p class="image"><img src="http://sumitai.ne.jp/urayasu/wp-content/uploads/2016/07/DSC_5411.jpg " width = "300" height = "200.104"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　萬治2年（1659年）鍵屋初代弥兵衛が奈良から江戸に出て日本橋横山町にて開業。
+</p>
+<p class="body">
+　葦の管に火薬を練って小さな玉をつくり、「火の花」「花の火」「花火」と称して売り出した。正徳元年（1711年）に隅田川で初めての花火を鍵屋が打ち揚げた。
+</p>
+<p class="body">参考：<a href="http://www.souke-kagiya.co.jp/1_history/history.html">http://www.souke-kagiya.co.jp/1_history/history.html</a>
+</br>参考：<a href="http://sumitai.ne.jp/urayasu/wp-content/uploads/2016/07/DSC_5411.jpg">http://sumitai.ne.jp/urayasu/wp-content/uploads/2016/07/DSC_5411.jpg</a></p>]]></description>
+			<LookAt>
+				<longitude>139.8670660452393</longitude>
+				<latitude>35.69491087680667</latitude>
+				<altitude>0</altitude>
+				<heading>-8.178160252447139e-11</heading>
+				<tilt>0</tilt>
+				<range>1003.614284187181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kigyo</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8670660452393,35.69491087680666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>気球製作所</name>
+			<description><![CDATA[<link href="http://hiroshima.archiving.jp/data/ios/style.css" rel="stylesheet" type="text/css">
+<p class = "subject">気球製作会社</p>
+<CENTER>
+<p class="image"><img src="http://www.weatherballoon.co.jp/images/company/image01.jpg " width = "300" height = "255"></p><!--幅か高さの長い方を300に指定。縮尺は保ったままにする。-->
+</CENTER>
+<p class="body">
+　1894年創業。
+　気象観測用のゴム気球を製造している気球メーカー。</p>
+<p class="body">
+　同社の歴史は古く、山田猪三郎氏が高輪で救命浮き輪の製造を開始したのが始まり。1896年に日本式係留気球を製作、1910年に山田式飛行船を発明製作、国内最初の飛行記録を樹立した。</p>
+<p class="body">
+　その後、1915年にはアドバルーンの元祖となる係留気球を利用して空中広告を考案実用化した。1971年には、ゴム気球の高性能化をはかり「ＣＯＳＭＯＰＲＥＮＥ」と命名、世界各国に販路を拡大。2002年にディスプレイ、イベント用カラーバルーンを開発と歴史を刻んできた。
+</p>
+
+<p class="body">参考：
+<a href = "http://www.gomutimes.co.jp/?p=67221">
+http://www.gomutimes.co.jp/?p=67221
+</a>
+</br>参考：<a href="http://www.weatherballoon.co.jp/images/company/image01.jpg">http://www.weatherballoon.co.jp/images/company/image01.jpg</a>
+</p>]]></description>
+			<LookAt>
+				<longitude>139.7350963584728</longitude>
+				<latitude>35.56137754236255</latitude>
+				<altitude>0</altitude>
+				<heading>1.848233377758783e-05</heading>
+				<tilt>29.42798729151273</tilt>
+				<range>69.46287249308934</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#kigyo</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7350408974542,35.56137154440863,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
