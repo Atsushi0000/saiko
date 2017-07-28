@@ -275,7 +275,7 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>www.pdon.jp																								</key>
+			<key>www.pdon.jp</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoadsNSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
