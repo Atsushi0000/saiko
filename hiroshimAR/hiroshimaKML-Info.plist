@@ -40,7 +40,7 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>https://wiki.chakuriki.net/index.php/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:HOSEI_Ichigaya_Repair.jpg</key>
+			<key>https://wiki.chakuriki.net/images/f/f4/HOSEI_Ichigaya_Repair.jpg</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -61,11 +61,6 @@
 				<true/>
 			</dict>
 			<key>https://kotobank.jp/image/dictionary/daijisen/media/105903.jpg</key>
-			<dict>
-				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-			</dict>
-			<key>http://nabe-masao.cocolog-nifty.com/.shared/image.html?/photos/uncategorized/2013/05/15/2013_0515_091442m.jpg</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -565,12 +560,12 @@
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>１ - 31 - 2 - 2</key>
+			<key>http://1964.mapping.jp/</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 			</dict>
-			<key>１ - 31 - 2 - 3</key>
+			<key>http://hiroshima.archiving.jp/</key>
 			<dict>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
